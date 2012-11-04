@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 11px;
+}
+
+.item {
+  width: 480px;
+  margin: 10px;
+  float: left;
+}
+
+#day {
+    height: 200px;
+}
+
+#image {
+    height: 500px;
+}
+
+#passage {
+    height: 500px;
+}
+
+#near {
+    height: 120px;
+}
+
+#other {
+    height: 120px;
+}
+
+.thumbnail {
+    display: inline;
+}
+
+.thumbnail img {
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.image img {
+    max-width: 480px;
+    max-height: 480px;
+}

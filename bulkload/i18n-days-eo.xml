@@ -1,0 +1,3153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows xmlns:yahoo="http://www.yahooapis.com/v1/base.rng">
+   <row>
+      <id>A011</id>
+      <en>First Sunday of Advent</en>
+      <nl>Eerste zondag van de Advent</nl>
+      <sv>Första söndagen i Advent</sv>
+   </row>
+   <row>
+      <id>A021</id>
+      <en>Second Sunday of Advent</en>
+      <nl>Tweede zondag van de Advent</nl>
+      <sv>Andra söndagen i Advent</sv>
+   </row>
+   <row>
+      <id>A031</id>
+      <en>Third Sunday of Advent</en>
+      <nl>Derde zondag van de Advent</nl>
+      <sv>Tredje söndagen i Advent</sv>
+   </row>
+   <row>
+      <id>A041</id>
+      <en>Fourth Sunday of Advent</en>
+      <nl>Vierde Zondag van de Advent</nl>
+      <sv>Fjärde söndagen i Advent</sv>
+   </row>
+   <row>
+      <id>A034</id>
+      <en>Ember Wednesday in Advent</en>
+      <nl>Quatertemperwoensdag in Advent</nl>
+      <sv>Kvatemberonsdagen i Advent</sv>
+   </row>
+   <row>
+      <id>A036</id>
+      <en>Ember Friday in Advent</en>
+      <nl>Quatertempervrijdag in Advent</nl>
+      <sv>Kvatemberfredagen i Advent</sv>
+   </row>
+   <row>
+      <id>A037</id>
+      <en>Ember Saturday in Advent</en>
+      <nl>Quatertemperzaterdag in de Advent</nl>
+      <sv>Kvatemberlördagen i Advent</sv>
+   </row>
+   <row>
+      <id>A012</id>
+      <en>Monday in the First week of Advent</en>
+      <nl>Maandag in de eerste week van de Advent</nl>
+      <sv>Måndagen i första veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A013</id>
+      <en>Tuesday in the First week of Advent</en>
+      <nl>Dinsdag in de eerste week van de Advent</nl>
+      <sv>Tisdagen i första veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A014</id>
+      <en>Wednesday in the First week of Advent</en>
+      <nl>Woensdag in de eerste week van de Advent</nl>
+      <sv>Onsdagen i första veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A015</id>
+      <en>Thursday in the First week of Advent</en>
+      <nl>Donderdag in de eerste week van de Advent</nl>
+      <sv>Torsdagen i första veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A016</id>
+      <en>Friday in the First week of Advent</en>
+      <nl>Vrijdag in de eerste week van de Advent</nl>
+      <sv>Fredagen ​​första veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A017</id>
+      <en>Saturday in the First week of Advent</en>
+      <nl>Zaterdag in de eerste week van de Advent</nl>
+      <sv>Lördagen i första veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A022</id>
+      <en>Monday in the Second week of Advent</en>
+      <nl>Maandag in de tweede week van de Advent</nl>
+      <sv>Måndagen i andra veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A023</id>
+      <en>Tuesday in the Second week of Advent</en>
+      <nl>Dinsdag in de tweede week van de Advent</nl>
+      <sv>Tisdagen i andra veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A024</id>
+      <en>Wednesday in the Second week of Advent</en>
+      <nl>Woensdag in de tweede week van de Advent</nl>
+      <sv>Onsdagen i andra veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A025</id>
+      <en>Thursday in the Second week of Advent</en>
+      <nl>Donderdag in de tweede week van de Advent</nl>
+      <sv>Torsdagen i andra veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A026</id>
+      <en>Friday in the Second week of Advent</en>
+      <nl>Vrijdag in de tweede week van de Advent</nl>
+      <sv>Fredagen ​​i andra veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A027</id>
+      <en>Saturday in the Second week of Advent</en>
+      <nl>Zaterdag in de tweede week van de Advent</nl>
+      <sv>Lördagen i andra veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A032</id>
+      <en>Monday in the Third week of Advent</en>
+      <nl>Maandag in de derde week van de Advent</nl>
+      <sv>Måndagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A033</id>
+      <en>Tuesday in the Third week of Advent</en>
+      <nl>Dinsdag in de derde week van de Advent</nl>
+      <sv>Tisdagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>A035</id>
+      <en>Thursday in the Third week of Advent</en>
+      <nl>Donderdag in de derde week van de Advent</nl>
+      <sv>Torsdagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D032</id>
+      <en>Monday in the Third week of Advent</en>
+      <nl>Maandag in de derde week van de Advent</nl>
+      <sv>Måndagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D033</id>
+      <en>Tuesday in the Third week of Advent</en>
+      <nl>Dinsdag in de derde week van de Advent</nl>
+      <sv>Tisdagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D034</id>
+      <en>Wednesday in the Third week of Advent</en>
+      <nl>Woensdag in de derde week van de Advent</nl>
+      <sv>Onsdagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D035</id>
+      <en>Thursday in the Third week of Advent</en>
+      <nl>Donderdag in de derde week van de Advent</nl>
+      <sv>Torsdagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D036</id>
+      <en>Friday in the Third week of Advent</en>
+      <nl>Vrijdag in de derde week van de Advent</nl>
+      <sv>Fredagen ​​i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D037</id>
+      <en>Saturday in the Third week of Advent</en>
+      <nl>Zaterdag in de derde week van de Advent</nl>
+      <sv>Lördagen i tredje veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D042</id>
+      <en>Monday in the Fourth week of Advent</en>
+      <nl>Maandag in de vierde week van de Advent</nl>
+      <sv>Måndagen i fjärde veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D043</id>
+      <en>Tuesday in the Fourth week of Advent</en>
+      <nl>Dinsdag in de vierde week van de Advent</nl>
+      <sv>Tisdagen i fjärde veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D044</id>
+      <en>Wednesday in the Fourth week of Advent</en>
+      <nl>Woensdag in de vierde week van de Advent</nl>
+      <sv>Onsdagen i fjärde veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D045</id>
+      <en>Thursday in the Fourth week of Advent</en>
+      <nl>Donderdag in de vierde week van de Advent</nl>
+      <sv>Torsdagen i fjärde veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D046</id>
+      <en>Friday in the Fourth week of Advent</en>
+      <nl>Vrijdag in de vierde week van de Advent</nl>
+      <sv>Fredagen ​​den fjärde veckan i Advent</sv>
+   </row>
+   <row>
+      <id>D047</id>
+      <en>Saturday in the Fourth week of Advent</en>
+      <nl>Zaterdag in de vierde week van de Advent</nl>
+      <sv>Lördagen i fjärde veckan i Advent</sv>
+   </row>
+   <row>
+      <id>B5</id>
+      <en>Fifth day in the octave of Christmas</en>
+      <nl>Vijfde dag in het octaaf van Kerstmis</nl>
+      <sv>Femte dagen i juloktaven</sv>
+   </row>
+   <row>
+      <id>B6</id>
+      <en>Sixth day in the octave of Christmas</en>
+      <nl>Zesde dag in het octaaf van Kerstmis</nl>
+      <sv>Sjätte dagen i juloktaven</sv>
+   </row>
+   <row>
+      <id>B7</id>
+      <en>Seventh day in the octave of Christmas</en>
+      <nl>Zevende dag in het octaaf van Kerstmis</nl>
+      <sv>Sjunde dagen i juloktaven</sv>
+   </row>
+   <row>
+      <id>C1</id>
+      <en>Sunday in the Octave of Christmas</en>
+      <nl>Zondag in het octaaf van Kerstmis</nl>
+      <sv>Söndagen i juloktaven</sv>
+   </row>
+   <row>
+      <id>HNJ</id>
+      <en>Feast of the Holy Name of Jesus</en>
+      <nl>Feest van de Heilige Naam van Jezus</nl>
+      <sv>Jesu Heliga namn</sv>
+   </row>
+   <row>
+      <id>E011</id>
+      <en>Holy Family</en>
+      <nl>Heilige Familie</nl>
+      <sv>Heliga Familjen</sv>
+   </row>
+   <row>
+      <id>E021</id>
+      <en>Second Sunday after Epiphany</en>
+      <nl>Tweede zondag na Driekoningen</nl>
+      <sv>Andra söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>E031</id>
+      <en>Third Sunday after Epiphany</en>
+      <nl>Derde zondag na Driekoningen</nl>
+      <sv>Tredje söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>E041</id>
+      <en>Fourth Sunday after Epiphany</en>
+      <nl>Vierde zondag na Driekoningen</nl>
+      <sv>Fjärde söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>E051</id>
+      <en>Fifth Sunday after Epiphany</en>
+      <nl>Vijfde zondag na Driekoningen</nl>
+      <sv>Femte söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>E061</id>
+      <en>Sixth Sunday after Epiphany</en>
+      <nl>Zesde zondag na Driekoningen</nl>
+      <sv>Sjätte söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>E012</id>
+      <en>Monday in the First week after Epiphany</en>
+      <nl>Maandag in de eerste week na Driekoningen</nl>
+      <sv>Måndagen i första veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E013</id>
+      <en>Tuesday in the First week after Epiphany</en>
+      <nl>Dinsdag in de eerste week na Driekoningen</nl>
+      <sv>Tisdagen i första veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E014</id>
+      <en>Wednesday in the First week after Epiphany</en>
+      <nl>Woensdag in de eerste week na Driekoningen</nl>
+      <sv>Onsdagen i första veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E015</id>
+      <en>Thursday in the First week after Epiphany</en>
+      <nl>Donderdag in de eerste week na Driekoningen</nl>
+      <sv>Torsdagen i första veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E016</id>
+      <en>Friday in the First week after Epiphany</en>
+      <nl>Vrijdag in de eerste week na Driekoningen</nl>
+      <sv>Fredagen ​​i första veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E017</id>
+      <en>Saturday in the First week after Epiphany</en>
+      <nl>Zaterdag in de eerste week na Driekoningen</nl>
+      <sv>Lördagen i första veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E022</id>
+      <en>Monday in the Second week after Epiphany</en>
+      <nl>Maandag in de tweede week na Driekoningen</nl>
+      <sv>Måndagen i andra veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E023</id>
+      <en>Tuesday in the Second week after Epiphany</en>
+      <nl>Dinsdag in de tweede week na Driekoningen</nl>
+      <sv>Tisdagen i andra veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E024</id>
+      <en>Wednesday in the Second week after Epiphany</en>
+      <nl>Woensdag in de tweede week na Driekoningen</nl>
+      <sv>Onsdagen i andra veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E025</id>
+      <en>Thursday in the Second week after Epiphany</en>
+      <nl>Donderdag in de tweede week na Driekoningen</nl>
+      <sv>Torsdagen i andra veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E026</id>
+      <en>Friday in the Second week after Epiphany</en>
+      <nl>Vrijdag in de tweede week na Driekoningen</nl>
+      <sv>Fredagen ​​i andra veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E027</id>
+      <en>Saturday in the Second week after Epiphany</en>
+      <nl>Zaterdag in de tweede week na Driekoningen</nl>
+      <sv>Lördagen i andra veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E032</id>
+      <en>Monday in the Third week after Epiphany</en>
+      <nl>Maandag in de derde week na Driekoningen</nl>
+      <sv>Måndagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E033</id>
+      <en>Tuesday in the Third week after Epiphany</en>
+      <nl>Dinsdag in de derde week na Driekoningen</nl>
+      <sv>Tisdagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E034</id>
+      <en>Wednesday in the Third week after Epiphany</en>
+      <nl>Woensdag in de derde week na Driekoningen</nl>
+      <sv>Onsdagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E035</id>
+      <en>Thursday in the Third week after Epiphany</en>
+      <nl>Donderdag in de derde week na Driekoningen</nl>
+      <sv>Torsdagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E036</id>
+      <en>Friday in the Third week after Epiphany</en>
+      <nl>Vrijdag in de derde week na Driekoningen</nl>
+      <sv>Fredagen ​​i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E037</id>
+      <en>Saturday in the Third week after Epiphany</en>
+      <nl>Zaterdag in de derde week na Driekoningen</nl>
+      <sv>Lördagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E042</id>
+      <en>Monday in the Fourth week after Epiphany</en>
+      <nl>Maandag in de vierde week na Driekoningen</nl>
+      <sv>Måndagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E043</id>
+      <en>Tuesday in the Fourth week after Epiphany</en>
+      <nl>Dinsdag in de vierde week na Driekoningen</nl>
+      <sv>Tisdagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E044</id>
+      <en>Wednesday in the Fourth week after Epiphany</en>
+      <nl>Woensdag in de vierde week na Driekoningen</nl>
+      <sv>Onsdagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E045</id>
+      <en>Thursday in the Fourth week after Epiphany</en>
+      <nl>Donderdag in de vierde week na Driekoningen</nl>
+      <sv>Torsdagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E046</id>
+      <en>Friday in the Fourth week after Epiphany</en>
+      <nl>Vrijdag in de vierde week na Driekoningen</nl>
+      <sv>Fredagen ​​i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E047</id>
+      <en>Saturday in the Fourth week after Epiphany</en>
+      <nl>Zaterdag in de vierde week na Driekoningen</nl>
+      <sv>Lördagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E052</id>
+      <en>Monday in the Fifth week after Epiphany</en>
+      <nl>Maandag in de vijfde week na Driekoningen</nl>
+      <sv>Måndagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E053</id>
+      <en>Tuesday in the Fifth week after Epiphany</en>
+      <nl>Dinsdag in de vijfde week na Driekoningen</nl>
+      <sv>Tisdagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E054</id>
+      <en>Wednesday in the Fifth week after Epiphany</en>
+      <nl>Woensdag in de vijfde week na Driekoningen</nl>
+      <sv>Onsdagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E055</id>
+      <en>Thursday in the Fifth week after Epiphany</en>
+      <nl>Donderdag in de vijfde week na Driekoningen</nl>
+      <sv>Torsdagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E056</id>
+      <en>Friday in the Fifth week after Epiphany</en>
+      <nl>Vrijdag in de vijfde week na Driekoningen</nl>
+      <sv>Fredagen ​​i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E057</id>
+      <en>Saturday in the Fifth week after Epiphany</en>
+      <nl>Zaterdag in de vijfde week na Driekoningen</nl>
+      <sv>Lördagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E062</id>
+      <en>Monday in the Sixth week after Epiphany</en>
+      <nl>Maandag in de zesde week na Driekoningen</nl>
+      <sv>Måndagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E063</id>
+      <en>Tuesday in the Sixth week after Epiphany</en>
+      <nl>Dinsdag in de zesde week na Driekoningen</nl>
+      <sv>Tisdagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E064</id>
+      <en>Wednesday in the Sixth week after Epiphany</en>
+      <nl>Woensdag in de zesde week na Driekoningen</nl>
+      <sv>Onsdagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E065</id>
+      <en>Thursday in the Sixth week after Epiphany</en>
+      <nl>Donderdag in de zesde week na Driekoningen</nl>
+      <sv>Torsdagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E066</id>
+      <en>Friday in the Sixth week after Epiphany</en>
+      <nl>Vrijdag in de zesde week na Driekoningen</nl>
+      <sv>Fredagen ​​i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>E067</id>
+      <en>Saturday in the Sixth week after Epiphany</en>
+      <nl>Zaterdag in de zesde week na Driekoningen</nl>
+      <sv>Lördagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F031</id>
+      <en>Third Sunday after Epiphany</en>
+      <nl>Derde zondag na Driekoningen</nl>
+      <sv>Tredje söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>F041</id>
+      <en>Fourth Sunday after Epiphany</en>
+      <nl>Vierde zondag na Driekoningen</nl>
+      <sv>Fjärde söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>F051</id>
+      <en>Fifth Sunday after Epiphany</en>
+      <nl>Vijfde zondag na Driekoningen</nl>
+      <sv>Femte söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>F061</id>
+      <en>Sixth Sunday after Epiphany</en>
+      <nl>Zesde zondag na Driekoningen</nl>
+      <sv>Sjätte söndagen efter Epifania</sv>
+   </row>
+   <row>
+      <id>F032</id>
+      <en>Monday in the Third week after Epiphany</en>
+      <nl>Maandag in de derde week na Driekoningen</nl>
+      <sv>Måndagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F033</id>
+      <en>Tuesday in the Third week after Epiphany</en>
+      <nl>Dinsdag in de derde week na Driekoningen</nl>
+      <sv>Tisdagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F034</id>
+      <en>Wednesday in the Third week after Epiphany</en>
+      <nl>Woensdag in de derde week na Driekoningen</nl>
+      <sv>Onsdagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F035</id>
+      <en>Thursday in the Third week after Epiphany</en>
+      <nl>Donderdag in de derde week na Driekoningen</nl>
+      <sv>Torsdagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F036</id>
+      <en>Friday in the Third week after Epiphany</en>
+      <nl>Vrijdag in de derde week na Driekoningen</nl>
+      <sv>Fredagen ​​i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F037</id>
+      <en>Saturday in the Third week after Epiphany</en>
+      <nl>Zaterdag in de derde week na Driekoningen</nl>
+      <sv>Lördagen i tredje veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F042</id>
+      <en>Monday in the Fourth week after Epiphany</en>
+      <nl>Maandag in de vierde week na Driekoningen</nl>
+      <sv>Måndagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F043</id>
+      <en>Tuesday in the Fourth week after Epiphany</en>
+      <nl>Dinsdag in de vierde week na Driekoningen</nl>
+      <sv>Tisdagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F044</id>
+      <en>Wednesday in the Fourth week after Epiphany</en>
+      <nl>Woensdag in de vierde week na Driekoningen</nl>
+      <sv>Onsdagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F045</id>
+      <en>Thursday in the Fourth week after Epiphany</en>
+      <nl>Donderdag in de vierde week na Driekoningen</nl>
+      <sv>Torsdagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F046</id>
+      <en>Friday in the Fourth week after Epiphany</en>
+      <nl>Vrijdag in de vierde week na Driekoningen</nl>
+      <sv>Fredagen ​​i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F047</id>
+      <en>Saturday in the Fourth week after Epiphany</en>
+      <nl>Zaterdag in de vierde week na Driekoningen</nl>
+      <sv>Lördagen i fjärde veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F052</id>
+      <en>Monday in the Fifth week after Epiphany</en>
+      <nl>Maandag in de vijfde week na Driekoningen</nl>
+      <sv>Måndagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F053</id>
+      <en>Tuesday in the Fifth week after Epiphany</en>
+      <nl>Dinsdag in de vijfde week na Driekoningen</nl>
+      <sv>Tisdagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F054</id>
+      <en>Wednesday in the Fifth week after Epiphany</en>
+      <nl>Woensdag in de vijfde week na Driekoningen</nl>
+      <sv>Onsdagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F055</id>
+      <en>Thursday in the Fifth week after Epiphany</en>
+      <nl>Donderdag in de vijfde week na Driekoningen</nl>
+      <sv>Torsdagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F056</id>
+      <en>Friday in the Fifth week after Epiphany</en>
+      <nl>Vrijdag in de vijfde week na Driekoningen</nl>
+      <sv>Fredagen ​​i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F057</id>
+      <en>Saturday in the Fifth week after Epiphany</en>
+      <nl>Zaterdag in de vijfde week na Driekoningen</nl>
+      <sv>Lördagen i femte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F062</id>
+      <en>Monday in the Sixth week after Epiphany</en>
+      <nl>Maandag in de zesde week na Driekoningen</nl>
+      <sv>Måndagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F063</id>
+      <en>Tuesday in the Sixth week after Epiphany</en>
+      <nl>Dinsdag in de zesde week na Driekoningen</nl>
+      <sv>Tisdagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F064</id>
+      <en>Wednesday in the Sixth week after Epiphany</en>
+      <nl>Woensdag in de zesde week na Driekoningen</nl>
+      <sv>Onsdagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F065</id>
+      <en>Thursday in the Sixth week after Epiphany</en>
+      <nl>Donderdag in de zesde week na Driekoningen</nl>
+      <sv>Torsdagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F066</id>
+      <en>Friday in the Sixth week after Epiphany</en>
+      <nl>Vrijdag in de zesde week na Driekoningen</nl>
+      <sv>Fredagen ​​i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>F067</id>
+      <en>Saturday in the Sixth week after Epiphany</en>
+      <nl>Zaterdag in de zesde week na Driekoningen</nl>
+      <sv>Lördagen i sjätte veckan efter Epifania</sv>
+   </row>
+   <row>
+      <id>G011</id>
+      <en>Septuagesima Sunday</en>
+      <nl>Septuagesima zondag</nl>
+      <sv>Septuagesima</sv>
+   </row>
+   <row>
+      <id>G021</id>
+      <en>Sexagesima Sunday</en>
+      <nl>Sexagesima zondag</nl>
+      <sv>Sexagesima</sv>
+   </row>
+   <row>
+      <id>G031</id>
+      <en>Quinquagesima Sunday</en>
+      <nl>Quinquagesima zondag</nl>
+      <sv>Quinquagesima</sv>
+   </row>
+   <row>
+      <id>G012</id>
+      <en>Monday in the week of Septuagesima</en>
+      <nl>Maandag in de week van Septuagesima</nl>
+      <sv>Måndagen i Septuagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G013</id>
+      <en>Tuesday in the week of Septuagesima</en>
+      <nl>Dinsdag in de week van Septuagesima</nl>
+      <sv>Tisdagen i Septuagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G014</id>
+      <en>Wednesday in the week of Septuagesima</en>
+      <nl>Woensdag in de week van Septuagesima</nl>
+      <sv>Onsdagen i Septuagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G015</id>
+      <en>Thursday in the week of Septuagesima</en>
+      <nl>Donderdag in de week van Septuagesima</nl>
+      <sv>Torsdagen i Septuagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G016</id>
+      <en>Friday in the week of Septuagesima</en>
+      <nl>Vrijdag in de week van Septuagesima</nl>
+      <sv>Fredagen ​​i Septuagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G017</id>
+      <en>Saturday in the week of Septuagesima</en>
+      <nl>Zaterdag in de week van Septuagesima</nl>
+      <sv>Lördagen i Septuagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G022</id>
+      <en>Monday in the week of Sexagesima</en>
+      <nl>Maandag in de week van Sexagesima</nl>
+      <sv>Måndagen i Sexagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G023</id>
+      <en>Tuesday in the week of Sexagesima</en>
+      <nl>Dinsdag in de week van Sexagesima</nl>
+      <sv>Tisdagen i Sexagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G024</id>
+      <en>Wednesday in the week of Sexagesima</en>
+      <nl>Woensdag in de week van Sexagesima</nl>
+      <sv>Onsdagen i Sexagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G025</id>
+      <en>Thursday in the week of Sexagesima</en>
+      <nl>Donderdag in de week van Sexagesima</nl>
+      <sv>Torsdagen i Sexagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G026</id>
+      <en>Friday in the week of Sexagesima</en>
+      <nl>Vrijdag in de week van Sexagesima</nl>
+      <sv>Fredagen ​​i Sexagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G027</id>
+      <en>Saturday in the week of Sexagesima</en>
+      <nl>Zaterdag in de week van Sexagesima</nl>
+      <sv>Lördagen i Sexagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G032</id>
+      <en>Monday in the week of Quinquagesima</en>
+      <nl>Maandag in de week van Quinquagesima</nl>
+      <sv>Måndagen i Quinquagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G033</id>
+      <en>Tuesday in the week of Quinquagesima</en>
+      <nl>Dinsdag in de week van Quinquagesima</nl>
+      <sv>Tisdagen i Quinquagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G034</id>
+      <en>Wednesday in the week of Quinquagesima</en>
+      <nl>Woensdag in de week van Quinquagesima</nl>
+      <sv>Onsdagen i Quinquagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G035</id>
+      <en>Thursday in the week of Quinquagesima</en>
+      <nl>Donderdag in de week van Quinquagesima</nl>
+      <sv>Torsdagen i Quinquagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G036</id>
+      <en>Friday in the week of Quinquagesima</en>
+      <nl>Vrijdag in de week van Quinquagesima</nl>
+      <sv>Fredagen ​​i Quinquagesimaveckan</sv>
+   </row>
+   <row>
+      <id>G037</id>
+      <en>Saturday in the week of Quinquagesima</en>
+      <nl>Zaterdag in de week van Quinquagesima</nl>
+      <sv>Lördagen i Quinquagesimaveckan</sv>
+   </row>
+   <row>
+      <id>L004</id>
+      <en>Ash Wednesday</en>
+      <nl>Aswoensdag</nl>
+      <sv>Askonsdagen</sv>
+   </row>
+   <row>
+      <id>L005</id>
+      <en>Thursday after Ash Wednesday</en>
+      <nl>Donderdag na Aswoensdag</nl>
+      <sv>Torsdagen efter askonsdagen</sv>
+   </row>
+   <row>
+      <id>L006</id>
+      <en>Friday after Ash Wednesday</en>
+      <nl>Vrijdag na Aswoensdag</nl>
+      <sv>Fredagen efter askonsdagen</sv>
+   </row>
+   <row>
+      <id>L007</id>
+      <en>Saturday after Ash Wednesday</en>
+      <nl>Zaterdag na Aswoensdag</nl>
+      <sv>Lördagen efter askonsdagen</sv>
+   </row>
+   <row>
+      <id>L014</id>
+      <en>Ember Wednesday in Lent</en>
+      <nl>Quatertemperwoensdag in de Vasten</nl>
+      <sv>Kvatemberonsdagen i fastan</sv>
+   </row>
+   <row>
+      <id>L016</id>
+      <en>Ember Friday in Lent</en>
+      <nl>Quatertempervrijdag in de Vasten</nl>
+      <sv>Kvatemberfredagen i fastan</sv>
+   </row>
+   <row>
+      <id>L017</id>
+      <en>Ember Saturday in Lent</en>
+      <nl>Quatertemperzaterdag in de Vasten</nl>
+      <sv>Kvartemberlördagen i fastan</sv>
+   </row>
+   <row>
+      <id>L011</id>
+      <en>First Sunday of Lent</en>
+      <nl>Eerste zondag van de Vasten</nl>
+      <sv>Första söndagen i fastan</sv>
+   </row>
+   <row>
+      <id>L021</id>
+      <en>Second Sunday of Lent</en>
+      <nl>Tweede zondag van de Vasten</nl>
+      <sv>Andra söndagen i fastan</sv>
+   </row>
+   <row>
+      <id>L031</id>
+      <en>Third Sunday of Lent</en>
+      <nl>Derde zondag van de Vasten</nl>
+      <sv>Tredje söndagen i fastan</sv>
+   </row>
+   <row>
+      <id>L041</id>
+      <en>Fourth Sunday of Lent</en>
+      <nl>Vierde Zondag van de Vasten</nl>
+      <sv>Fjärde söndagen i fastan</sv>
+   </row>
+   <row>
+      <id>L012</id>
+      <en>Monday in the First week of Lent</en>
+      <nl>Maandag in de eerste week van de Vasten</nl>
+      <sv>Måndagen i första fasteveckan</sv>
+   </row>
+   <row>
+      <id>L013</id>
+      <en>Tuesday in the First week of Lent</en>
+      <nl>Dinsdag in de eerste week van de Vasten</nl>
+      <sv>Tisdagen i första fasteveckan</sv>
+   </row>
+   <row>
+      <id>L015</id>
+      <en>Thursday in the First week of Lent</en>
+      <nl>Donderdag in de eerste week van de Vasten</nl>
+      <sv>Torsdagen i första fasteveckan</sv>
+   </row>
+   <row>
+      <id>L022</id>
+      <en>Monday in the Second week of Lent</en>
+      <nl>Maandag in de tweede week van de Vasten</nl>
+      <sv>Måndagen i andra fasteveckan</sv>
+   </row>
+   <row>
+      <id>L023</id>
+      <en>Tuesday in the Second week of Lent</en>
+      <nl>Dinsdag in de tweede week van de Vasten</nl>
+      <sv>Tisdagen i andra fasteveckan</sv>
+   </row>
+   <row>
+      <id>L024</id>
+      <en>Wednesday in the Second week of Lent</en>
+      <nl>Woensdag in de tweede week van de Vasten</nl>
+      <sv>Onsdagen i andra fasteveckan</sv>
+   </row>
+   <row>
+      <id>L025</id>
+      <en>Thursday in the Second week of Lent</en>
+      <nl>Donderdag in de tweede week van de Vasten</nl>
+      <sv>Torsdagen i andra fasteveckan</sv>
+   </row>
+   <row>
+      <id>L026</id>
+      <en>Friday in the Second week of Lent</en>
+      <nl>Vrijdag in de tweede week van de Vasten</nl>
+      <sv>Fredagen i andra fasteveckan</sv>
+   </row>
+   <row>
+      <id>L027</id>
+      <en>Saturday in the Second week of Lent</en>
+      <nl>Zaterdag in de tweede week van de Vasten</nl>
+      <sv>Lördagen i andra fasteveckan</sv>
+   </row>
+   <row>
+      <id>L032</id>
+      <en>Monday in the Third week of Lent</en>
+      <nl>Maandag in de derde week van de Vasten</nl>
+      <sv>Måndagen i tredje fasteveckan</sv>
+   </row>
+   <row>
+      <id>L033</id>
+      <en>Tuesday in the Third week of Lent</en>
+      <nl>Dinsdag in de derde week van de Vasten</nl>
+      <sv>Tisdagen i tredje fasteveckan</sv>
+   </row>
+   <row>
+      <id>L034</id>
+      <en>Wednesday in the Third week of Lent</en>
+      <nl>Woensdag in de derde week van de Vasten</nl>
+      <sv>Onsdagen i tredje fasteveckan</sv>
+   </row>
+   <row>
+      <id>L035</id>
+      <en>Thursday in the Third week of Lent</en>
+      <nl>Donderdag in de derde week van de Vasten</nl>
+      <sv>Torsdagen i tredje fasteveckan</sv>
+   </row>
+   <row>
+      <id>L036</id>
+      <en>Friday in the Third week of Lent</en>
+      <nl>Vrijdag in de derde week van de Vasten</nl>
+      <sv>Fredagen i tredje fasteveckan</sv>
+   </row>
+   <row>
+      <id>L037</id>
+      <en>Saturday in the Third week of Lent</en>
+      <nl>Zaterdag in de derde week van de Vasten</nl>
+      <sv>Lördagen i tredje fasteveckan</sv>
+   </row>
+   <row>
+      <id>L042</id>
+      <en>Monday in the Fourth week of Lent</en>
+      <nl>Maandag in de vierde week van de Vasten</nl>
+      <sv>Måndagen i fjärde fasteveckan</sv>
+   </row>
+   <row>
+      <id>L043</id>
+      <en>Tuesday in the Fourth week of Lent</en>
+      <nl>Dinsdag in de vierde week van de Vasten</nl>
+      <sv>Tisdagen i fjärde fasteveckan</sv>
+   </row>
+   <row>
+      <id>L044</id>
+      <en>Wednesday in the Fourth week of Lent</en>
+      <nl>Woensdag in de vierde week van de Vasten</nl>
+      <sv>Onsdagen i fjärde fasteveckan</sv>
+   </row>
+   <row>
+      <id>L045</id>
+      <en>Thursday in the Fourth week of Lent</en>
+      <nl>Donderdag in de vierde week van de Vasten</nl>
+      <sv>Torsdagen i fjärde fasteveckan</sv>
+   </row>
+   <row>
+      <id>L046</id>
+      <en>Friday in the Fourth week of Lent</en>
+      <nl>Vrijdag in de vierde week van de Vasten</nl>
+      <sv>Fredagen i fjärde fasteveckan</sv>
+   </row>
+   <row>
+      <id>L047</id>
+      <en>Saturday in the Fourth week of Lent</en>
+      <nl>Zaterdag in de vierde week van de Vasten</nl>
+      <sv>Lördagen i fjärde fasteveckan</sv>
+   </row>
+   <row>
+      <id>L051</id>
+      <en>Passion Sunday</en>
+      <nl>Passiezondag</nl>
+      <sv>Passionssöndagen</sv>
+   </row>
+   <row>
+      <id>L052</id>
+      <en>Monday in the Passion Week</en>
+      <nl>Maandag in de Passieweek</nl>
+      <sv>Måndagen i Passionsveckan</sv>
+   </row>
+   <row>
+      <id>L053</id>
+      <en>Tuesday in the Passion Week</en>
+      <nl>Dinsdag in de Passieweek</nl>
+      <sv>Tisdagen i Passionsveckan</sv>
+   </row>
+   <row>
+      <id>L054</id>
+      <en>Wednesday in the Passion Week</en>
+      <nl>Woensdag in de Passieweek</nl>
+      <sv>Onsdagen i Passionsveckan</sv>
+   </row>
+   <row>
+      <id>L055</id>
+      <en>Thursday in the Passion Week</en>
+      <nl>Donderdag in de Passieweek</nl>
+      <sv>Torsdagen i Passionsveckan</sv>
+   </row>
+   <row>
+      <id>L056</id>
+      <en>Friday in the Passion Week</en>
+      <nl>Vrijdag in de Passieweek</nl>
+      <sv>Fredagen ​​i Passionsveckan</sv>
+   </row>
+   <row>
+      <id>L057</id>
+      <en>Saturday in the Passion Week</en>
+      <nl>Zaterdag in de Passieweek</nl>
+      <sv>Lördagen i Passionsveckan</sv>
+   </row>
+   <row>
+      <id>L061</id>
+      <en>Palm Sunday</en>
+      <nl>Palmzondag</nl>
+      <sv>Palmsöndagen</sv>
+   </row>
+   <row>
+      <id>L062</id>
+      <en>Monday in the Holy Week</en>
+      <nl>Maandag in de Goede Week</nl>
+      <sv>Måndagen i Stilla veckan</sv>
+   </row>
+   <row>
+      <id>L063</id>
+      <en>Tuesday in the Holy Week</en>
+      <nl>Dinsdag in de Goede Week</nl>
+      <sv>Tisdagen i Stilla veckan</sv>
+   </row>
+   <row>
+      <id>L064</id>
+      <en>Wednesday in the Holy Week</en>
+      <nl>Woensdag in de GoedeWeek</nl>
+      <sv>Dymmelonsdagen / Onsdagen i Stilla veckan</sv>
+   </row>
+   <row>
+      <id>L065</id>
+      <en>Holy Thursday</en>
+      <nl>Witte Donderdag</nl>
+      <sv>Skärtorsdagen</sv>
+   </row>
+   <row>
+      <id>L066</id>
+      <en>Good Friday</en>
+      <nl>Goede Vrijdag</nl>
+      <sv>Långfredagen</sv>
+   </row>
+   <row>
+      <id>L067</id>
+      <en>Holy Saturday</en>
+      <nl>Stille Zaterdag</nl>
+      <sv>Påskafton</sv>
+   </row>
+   <row>
+      <id>P007</id>
+      <en>Easter Vigil</en>
+      <nl>Paaswake</nl>
+      <sv>Påskvakan</sv>
+   </row>
+   <row>
+      <id>P011</id>
+      <en>Easter</en>
+      <nl>Pasen</nl>
+      <sv>Påskdagen</sv>
+   </row>
+   <row>
+      <id>P021</id>
+      <en>Low Sunday</en>
+      <nl>Beloken Pasen</nl>
+      <sv>Söndagen "in albis"</sv>
+   </row>
+   <row>
+      <id>P031</id>
+      <en>Second Sunday after Easter</en>
+      <nl>Tweede zondag na Pasen</nl>
+      <sv>Andra söndagen efter påsk</sv>
+   </row>
+   <row>
+      <id>P041</id>
+      <en>Third Sunday after Easter</en>
+      <nl>Derde zondag na Pasen</nl>
+      <sv>Tredje söndagen efter påsk</sv>
+   </row>
+   <row>
+      <id>P051</id>
+      <en>Fourth Sunday after Easter</en>
+      <nl>Vierde zondag na Pasen</nl>
+      <sv>Fjärde söndagen efter påsk</sv>
+   </row>
+   <row>
+      <id>P061</id>
+      <en>Fifth Sunday after Easter</en>
+      <nl>Vijfde zondag na Pasen</nl>
+      <sv>Femte söndagen efter påsk</sv>
+   </row>
+   <row>
+      <id>P012</id>
+      <en>Monday in the octave of Easter</en>
+      <nl>Maandag in het octaaf van Pasen</nl>
+      <sv>Måndagen i påskoktaven</sv>
+   </row>
+   <row>
+      <id>P013</id>
+      <en>Tuesday in the octave of Easter</en>
+      <nl>Dinsdag in het octaaf van Pasen</nl>
+      <sv>Tisdagen i påskoktaven</sv>
+   </row>
+   <row>
+      <id>P014</id>
+      <en>Wednesday in the octave of Easter</en>
+      <nl>Woensdag in het octaaf van Pasen</nl>
+      <sv>Onsdagen i påskoktaven</sv>
+   </row>
+   <row>
+      <id>P015</id>
+      <en>Thursday in the octave of Easter</en>
+      <nl>Donderdag in het octaaf van Pasen</nl>
+      <sv>Torsdagen i påskoktaven</sv>
+   </row>
+   <row>
+      <id>P016</id>
+      <en>Friday in the octave of Easter</en>
+      <nl>Vrijdag in het octaaf van Pasen</nl>
+      <sv>Fredagen i ​​påskoktaven</sv>
+   </row>
+   <row>
+      <id>P017</id>
+      <en>Saturday in the octave of Easter</en>
+      <nl>Zaterdag in het octaaf van Pasen</nl>
+      <sv>Lördagen i påskoktaven</sv>
+   </row>
+   <row>
+      <id>P032</id>
+      <en>Monday in the Second week after Easter</en>
+      <nl>Maandag in de tweede week na Pasen</nl>
+      <sv>Måndagen i andra veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P033</id>
+      <en>Tuesday in the Second week after Easter</en>
+      <nl>Dinsdag in de tweede week na Pasen</nl>
+      <sv>Tisdagen i andra veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P034</id>
+      <en>Wednesday in the Second week after Easter</en>
+      <nl>Woensdag in de tweede week na Pasen</nl>
+      <sv>Onsdagen i andra veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P035</id>
+      <en>Thursday in the Second week after Easter</en>
+      <nl>Donderdag in de tweede week na Pasen</nl>
+      <sv>Torsdagen i andra veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P036</id>
+      <en>Friday in the Second week after Easter</en>
+      <nl>Vrijdag in de tweede week na Pasen</nl>
+      <sv>Fredagen ​​i andra veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P037</id>
+      <en>Saturday in the Second week after Easter</en>
+      <nl>Zaterdag in de tweede week na Pasen</nl>
+      <sv>Lördagen i andra veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P042</id>
+      <en>Monday in the Third week after Easter</en>
+      <nl>Maandag in de derde week na Pasen</nl>
+      <sv>Måndagen i tredje veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P043</id>
+      <en>Tuesday in the Third week after Easter</en>
+      <nl>Dinsdag in de derde week na Pasen</nl>
+      <sv>Tisdagen i tredje veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P044</id>
+      <en>Wednesday in the Third week after Easter</en>
+      <nl>Woensdag in de derde week na Pasen</nl>
+      <sv>Onsdagen i tredje veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P045</id>
+      <en>Thursday in the Third week after Easter</en>
+      <nl>Donderdag in de derde week na Pasen</nl>
+      <sv>Torsdagen i tredje veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P046</id>
+      <en>Friday in the Third week after Easter</en>
+      <nl>Vrijdag in de derde week na Pasen</nl>
+      <sv>Fredagen ​​i tredje veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P047</id>
+      <en>Saturday in the Third week after Easter</en>
+      <nl>Zaterdag in de derde week na Pasen</nl>
+      <sv>Lördagen i tredje veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P052</id>
+      <en>Monday in the Fourth week after Easter</en>
+      <nl>Maandag in de vierde week na Pasen</nl>
+      <sv>Måndagen i fjärde veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P053</id>
+      <en>Tuesday in the Fourth week after Easter</en>
+      <nl>Dinsdag in de vierde week na Pasen</nl>
+      <sv>Tisdagen i fjärde veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P054</id>
+      <en>Wednesday in the Fourth week after Easter</en>
+      <nl>Woensdag in de vierde week na Pasen</nl>
+      <sv>Onsdagen i fjärde veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P055</id>
+      <en>Thursday in the Fourth week after Easter</en>
+      <nl>Donderdag in de vierde week na Pasen</nl>
+      <sv>Torsdagen i fjärde veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P056</id>
+      <en>Friday in the Fourth week after Easter</en>
+      <nl>Vrijdag in de vierde week na Pasen</nl>
+      <sv>Fredagen ​​i fjärde veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P057</id>
+      <en>Saturday in the Fourth week after Easter</en>
+      <nl>Zaterdag in de vierde week na Pasen</nl>
+      <sv>Lördagen i fjärde veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P065</id>
+      <en>Thursday in the Fifth week after Easter</en>
+      <nl>Donderdag in de vijfde week na Pasen</nl>
+      <sv>Torsdagen i femte veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P066</id>
+      <en>Friday in the Fifth week after Easter</en>
+      <nl>Vrijdag in de vijfde week na Pasen</nl>
+      <sv>Fredagen ​​i femte veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P067</id>
+      <en>Saturday in the Fifth week after Easter</en>
+      <nl>Zaterdag in de vijfde week na Pasen</nl>
+      <sv>Lördagen i femte veckan efter påsk</sv>
+   </row>
+   <row>
+      <id>P062</id>
+      <en>Rogation Day</en>
+      <nl>Kruisdag</nl>
+      <sv>Rogationsdag</sv>
+   </row>
+   <row>
+      <id>P063</id>
+      <en>Rogation Day</en>
+      <nl>Kruisdag</nl>
+      <sv>Rogationsdag</sv>
+   </row>
+   <row>
+      <id>P064</id>
+      <en>Rogation Day</en>
+      <nl>Kruisdag</nl>
+      <sv>Rogationsdag</sv>
+   </row>
+   <row>
+      <id>Q064</id>
+      <en>Vigil of the Ascension of the Lord</en>
+      <nl>Vigilie van de Hemelvaart van de Heer</nl>
+      <sv>Kristi Himmelsfärd (vigilia)</sv>
+   </row>
+   <row>
+      <id>Q065</id>
+      <en>Ascension of the Lord</en>
+      <nl>Hemelvaart van de Heer</nl>
+      <sv>Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q066</id>
+      <en>Friday after the Ascension of the Lord</en>
+      <nl>Vrijdag na de Hemelvaart van de Heer</nl>
+      <sv>Fredagen efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q067</id>
+      <en>Saturday after the Ascension of the Lord</en>
+      <nl>Zaterdag na de Hemelvaart van de Heer</nl>
+      <sv>Lördagen efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q071</id>
+      <en>Sunday after the Ascension of the Lord</en>
+      <nl>Zondag na de Hemelvaart van de Heer</nl>
+      <sv>Söndagen efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q072</id>
+      <en>Monday in the week after the Ascension of the Lord</en>
+      <nl>Maandag in de week na de Hemelvaart van de Heer</nl>
+      <sv>Måndagen i veckan efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q073</id>
+      <en>Tuesday in the week after the Ascension of the Lord</en>
+      <nl>Dinsdag in de week na de Hemelvaart van de Heer</nl>
+      <sv>Tisdagen i veckan efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q074</id>
+      <en>Wednesday in the week after the Ascension of the Lord</en>
+      <nl>Woensdag in de week na de Hemelvaart van de Heer</nl>
+      <sv>Onsdagen i veckan efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q075</id>
+      <en>Friday in the week after the Ascension of the Lord</en>
+      <nl>Vrijdag in de week na de Hemelvaart van de Heer</nl>
+      <sv>Fredagen i ​​veckan efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q076</id>
+      <en>Saturday in the week after the Ascension of the Lord</en>
+      <nl>Zaterdag in de week na de Hemelvaart van de Heer</nl>
+      <sv>Lördagen i veckan efter Kristi Himmelsfärd</sv>
+   </row>
+   <row>
+      <id>Q077</id>
+      <en>Vigil of Pentecost</en>
+      <nl>Vigilie van Pinksteren</nl>
+      <sv>Pingstafton (vigilia)</sv>
+   </row>
+   <row>
+      <id>Q081</id>
+      <en>Pentecost</en>
+      <nl>Pinksteren</nl>
+      <sv>Pingstdagen</sv>
+   </row>
+   <row>
+      <id>Q082</id>
+      <en>Monday after Pentecost</en>
+      <nl>Pinkstermaandag</nl>
+      <sv>Måndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Q083</id>
+      <en>Tuesday after Pentecost</en>
+      <nl>Dinsdag na Pinksteren</nl>
+      <sv>Tisdagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Q085</id>
+      <en>Thursday after Pentecost</en>
+      <nl>Donderdag na Pinksteren</nl>
+      <sv>Torsdagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Q084</id>
+      <en>Ember Wednesday after Pentecost</en>
+      <nl>Quatertemperwoensdag na Pinksteren</nl>
+      <sv>Kvatemberonsdagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Q086</id>
+      <en>Ember Friday after Pentecost</en>
+      <nl>Quatertempervrijdag na Pinksteren</nl>
+      <sv>Kvatemberfredagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Q087</id>
+      <en>Ember Saturday after Pentecost</en>
+      <nl>Quatertemperzaterdag na Pinksteren</nl>
+      <sv>Kvatemberlördagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>P091</id>
+      <en>Trinity Sunday</en>
+      <nl>Heilige Drievuldigheid</nl>
+      <sv>Heliga Trefaldighet</sv>
+   </row>
+   <row>
+      <id>P095</id>
+      <en>Corpus Christi</en>
+      <nl>Sacramentsdag</nl>
+      <sv>Corpus Christi</sv>
+   </row>
+   <row>
+      <id>P106</id>
+      <en>Solemnity of the Sacred Heart of Jezus</en>
+      <nl>Heilig Hart van Jezus</nl>
+      <sv>Jesu Heliga Hjärta</sv>
+   </row>
+   <row>
+      <id>Y011</id>
+      <en>First Sunday after Pentecost</en>
+      <nl>Eerste zondag na Pinksteren</nl>
+      <sv>Första söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y021</id>
+      <en>Second Sunday after Pentecost</en>
+      <nl>Tweede zondag na Pinksteren</nl>
+      <sv>Andra söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y031</id>
+      <en>Third Sunday after Pentecost</en>
+      <nl>Derde zondag na Pinksteren</nl>
+      <sv>Tredje söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y041</id>
+      <en>Fourth Sunday after Pentecost</en>
+      <nl>Vierde zondag na Pinksteren</nl>
+      <sv>Fjärde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y051</id>
+      <en>Fifth Sunday after Pentecost</en>
+      <nl>Vijfde zondag na Pinksteren</nl>
+      <sv>Femte söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y061</id>
+      <en>Sixth Sunday after Pentecost</en>
+      <nl>Zesde zondag na Pinksteren</nl>
+      <sv>Sjätte söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y071</id>
+      <en>Seventh Sunday after Pentecost</en>
+      <nl>Zevende zondag na Pinksteren</nl>
+      <sv>Sjunde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y081</id>
+      <en>Eighth Sunday after Pentecost</en>
+      <nl>Achtste zondag na Pinksteren</nl>
+      <sv>Åttonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y091</id>
+      <en>Ninth Sunday after Pentecost</en>
+      <nl>Negende zondag na Pinksteren</nl>
+      <sv>Nionde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y101</id>
+      <en>Tenth Sunday after Pentecost</en>
+      <nl>Tiende zondag na Pinksteren</nl>
+      <sv>Tionde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y111</id>
+      <en>Eleventh Sunday after Pentecost</en>
+      <nl>Elfde zondag na Pinksteren</nl>
+      <sv>Elfte söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y121</id>
+      <en>Twelfth Sunday after Pentecost</en>
+      <nl>Twaalfde zondag na Pinksteren</nl>
+      <sv>Tolfte söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y131</id>
+      <en>Thirtheenth Sunday after Pentecost</en>
+      <nl>Dertiende zondag na Pinksteren</nl>
+      <sv>Trettonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y141</id>
+      <en>Fourteenth Sunday after Pentecost</en>
+      <nl>Veertiende zondag na Pinksteren</nl>
+      <sv>Fjortonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y151</id>
+      <en>Fifteenth Sunday after Pentecost</en>
+      <nl>Vijftiende zondag na Pinksteren</nl>
+      <sv>Femtonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y161</id>
+      <en>Sixteenth Sunday after Pentecost</en>
+      <nl>Zestiende zondag na Pinksteren</nl>
+      <sv>Sextonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y171</id>
+      <en>Seventeenth Sunday after Pentecost</en>
+      <nl>Zeventiende zondag na Pinksteren</nl>
+      <sv>Sjuttonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y181</id>
+      <en>Eighteenth Sunday after Pentecost</en>
+      <nl>Achttiende zondag na Pinksteren</nl>
+      <sv>Artonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y191</id>
+      <en>Nineteenth Sunday after Pentecost</en>
+      <nl>Negentiende zondag na Pinksteren</nl>
+      <sv>Nittonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y201</id>
+      <en>Twentieth Sunday after Pentecost</en>
+      <nl>Twintigste zondag na Pinksteren</nl>
+      <sv>Tjugonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y211</id>
+      <en>Twenty-first Sunday after Pentecost</en>
+      <nl>Eentwintigste zondag na Pinksteren</nl>
+      <sv>Tjugoförsta söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y221</id>
+      <en>Twenty-second Sunday after Pentecost</en>
+      <nl>Tweeëntwintigste zondag na Pinksteren</nl>
+      <sv>Tjugoandra söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y231</id>
+      <en>Twenth-third Sunday after Pentecost</en>
+      <nl>drieëntwintigste  zondag na Pinksteren</nl>
+      <sv>Tjugotredje söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y241</id>
+      <en>Twenty-fourth Sunday after Pentecost</en>
+      <nl>vierentwintigste zondag na Pinksteren</nl>
+      <sv>Tjugofjärde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y251</id>
+      <en>Twenty-fifth Sunday after Pentecost</en>
+      <nl>vijfentwintigste zondag na Pinksteren</nl>
+      <sv>Tjugofemte söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y261</id>
+      <en>Twenty-sixth Sunday after Pentecost</en>
+      <nl>zesentwintigste zondag na Pinksteren</nl>
+      <sv>Tjugosjätte söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y271</id>
+      <en>Twenty-seventh Sunday after Pentecost</en>
+      <nl>Zeventwintigste zondag na Pinksteren</nl>
+      <sv>Tjugosjunde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y281</id>
+      <en>Twenty-eighth Sunday after Pentecost</en>
+      <nl>Achtentwintigste zondag na Pinksteren</nl>
+      <sv>Tjugoåttonde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y291</id>
+      <en>Twenty-ninth Sunday after Pentecost</en>
+      <nl>negentwintigste zondag na Pinksteren</nl>
+      <sv>Tjugonionde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y301</id>
+      <en>Thirtieth Sunday after Pentecost</en>
+      <nl>Dertigste zondag na Pinksteren</nl>
+      <sv>Trettionde söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y311</id>
+      <en>Thirty-first Sunday after Pentecost</en>
+      <nl>Eendertigste zondag na Pinksteren</nl>
+      <sv>Trettioförsta söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y321</id>
+      <en>Thirty-second Sunday after Pentecost</en>
+      <nl>Dertig tweede zondag na Pinksteren</nl>
+      <sv>Trettioandra söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y331</id>
+      <en>Thirty-third Sunday after Pentecost</en>
+      <nl>Dertig derde zondag na Pinksteren</nl>
+      <sv>Trettiotredje söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y022</id>
+      <en>Monday in the Second week after Pentecost</en>
+      <nl>Maandag in de tweede week na Pinksteren</nl>
+      <sv>Måndagen i andra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y023</id>
+      <en>Tuesday in the Second week after Pentecost</en>
+      <nl>Dinsdag in de tweede week na Pinksteren</nl>
+      <sv>Tisdagen i andra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y024</id>
+      <en>Wednesday in the Second week after Pentecost</en>
+      <nl>Woensdag in de tweede week na Pinksteren</nl>
+      <sv>Onsdagen i andra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y025</id>
+      <en>Thursday in the Second week after Pentecost</en>
+      <nl>Donderdag in de tweede week na Pinksteren</nl>
+      <sv>Torsdagen i andra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y026</id>
+      <en>Friday in the Second week after Pentecost</en>
+      <nl>Vrijdag in de tweede week na Pinksteren</nl>
+      <sv>Fredagen ​​i andra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y027</id>
+      <en>Saturday in the Second week after Pentecost</en>
+      <nl>Zaterdag in de tweede week na Pinksteren</nl>
+      <sv>Lördagen i andra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y032</id>
+      <en>Monday in the Third week after Pentecost</en>
+      <nl>Maandag in de derde week na Pinksteren</nl>
+      <sv>Måndagen i tredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y033</id>
+      <en>Tuesday in the Third week after Pentecost</en>
+      <nl>Dinsdag in de derde week na Pinksteren</nl>
+      <sv>Tisdagen i tredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y034</id>
+      <en>Wednesday in the Third week after Pentecost</en>
+      <nl>Woensdag in de derde week na Pinksteren</nl>
+      <sv>Onsdagen i tredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y035</id>
+      <en>Thursday in the Third week after Pentecost</en>
+      <nl>Donderdag in de derde week na Pinksteren</nl>
+      <sv>Torsdagen i tredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y036</id>
+      <en>Friday in the Third week after Pentecost</en>
+      <nl>Vrijdag in de derde week na Pinksteren</nl>
+      <sv>Fredagen ​​i tredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y037</id>
+      <en>Saturday in the Third week after Pentecost</en>
+      <nl>Zaterdag in de derde week na Pinksteren</nl>
+      <sv>Lördagen i tredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y042</id>
+      <en>Monday in the Fourth week after Pentecost</en>
+      <nl>Maandag in de vierde week na Pinksteren</nl>
+      <sv>Måndagen i fjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y043</id>
+      <en>Tuesday in the Fourth week after Pentecost</en>
+      <nl>Dinsdag in de vierde week na Pinksteren</nl>
+      <sv>Tisdagen i fjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y044</id>
+      <en>Wednesday in the Fourth week after Pentecost</en>
+      <nl>Woensdag in de vierde week na Pinksteren</nl>
+      <sv>Onsdagen i fjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y045</id>
+      <en>Thursday in the Fourth week after Pentecost</en>
+      <nl>Donderdag in de vierde week na Pinksteren</nl>
+      <sv>Torsdagen i fjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y046</id>
+      <en>Friday in the Fourth week after Pentecost</en>
+      <nl>Vrijdag in de vierde week na Pinksteren</nl>
+      <sv>Fredagen ​​i fjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y047</id>
+      <en>Saturday in the Fourth week after Pentecost</en>
+      <nl>Zaterdag in de vierde week na Pinksteren</nl>
+      <sv>Lördagen i fjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y052</id>
+      <en>Monday in the Fifth week after Pentecost</en>
+      <nl>Maandag in de vijfde week na Pinksteren</nl>
+      <sv>Måndagen i femte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y053</id>
+      <en>Tuesday in the Fifth week after Pentecost</en>
+      <nl>Dinsdag in de vijfde week na Pinksteren</nl>
+      <sv>Tisdagen i femte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y054</id>
+      <en>Wednesday in the Fifth week after Pentecost</en>
+      <nl>Woensdag in de vijfde week na Pinksteren</nl>
+      <sv>Onsdagen i femte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y055</id>
+      <en>Thursday in the Fifth week after Pentecost</en>
+      <nl>Donderdag in de vijfde week na Pinksteren</nl>
+      <sv>Torsdagen i femte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y056</id>
+      <en>Friday in the Fifth week after Pentecost</en>
+      <nl>Vrijdag in de vijfde week na Pinksteren</nl>
+      <sv>Fredagen ​​i femte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y057</id>
+      <en>Saturday in the Fifth week after Pentecost</en>
+      <nl>Zaterdag in de vijfde week na Pinksteren</nl>
+      <sv>Lördagen i femte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y062</id>
+      <en>Monday in the Sixth week after Pentecost</en>
+      <nl>Maandag in de zesde week na Pinksteren</nl>
+      <sv>Måndagen i sjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y063</id>
+      <en>Tuesday in the Sixth week after Pentecost</en>
+      <nl>Dinsdag in de zesde week na Pinksteren</nl>
+      <sv>Tisdagen i sjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y064</id>
+      <en>Wednesday in the Sixth week after Pentecost</en>
+      <nl>Woensdag in de zesde week na Pinksteren</nl>
+      <sv>Onsdagen i sjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y065</id>
+      <en>Thursday in the Sixth week after Pentecost</en>
+      <nl>Donderdag in de zesde week na Pinksteren</nl>
+      <sv>Torsdagen i sjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y066</id>
+      <en>Friday in the Sixth week after Pentecost</en>
+      <nl>Vrijdag in de zesde week na Pinksteren</nl>
+      <sv>Fredagen ​​i sjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y067</id>
+      <en>Saturday in the Sixth week after Pentecost</en>
+      <nl>Zaterdag in de zesde week na Pinksteren</nl>
+      <sv>Lördagen i sjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y072</id>
+      <en>Monday in the Seventh week after Pentecost</en>
+      <nl>Maandag in de zevende week na Pinksteren</nl>
+      <sv>Måndagen i sjunde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y073</id>
+      <en>Tuesday in the Seventh week after Pentecost</en>
+      <nl>Dinsdag in de zevende week na Pinksteren</nl>
+      <sv>Tisdagen i sjunde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y074</id>
+      <en>Wednesday in the Seventh week after Pentecost</en>
+      <nl>Woensdag in de zevende week na Pinksteren</nl>
+      <sv>Onsdagen i sjunde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y075</id>
+      <en>Thursday in the Seventh week after Pentecost</en>
+      <nl>Donderdag in de zevende week na Pinksteren</nl>
+      <sv>Torsdagen i sjunde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y076</id>
+      <en>Friday in the Seventh week after Pentecost</en>
+      <nl>Vrijdag in de zevende week na Pinksteren</nl>
+      <sv>Fredagen ​​i sjunde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y077</id>
+      <en>Saturday in the Seventh week after Pentecost</en>
+      <nl>Zaterdag in de zevende week na Pinksteren</nl>
+      <sv>Lördagen i sjunde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y082</id>
+      <en>Monday in the Eighth week after Pentecost</en>
+      <nl>Maandag in de achtste week na Pinksteren</nl>
+      <sv>Måndagen i åttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y083</id>
+      <en>Tuesday in the Eighth week after Pentecost</en>
+      <nl>Dinsdag in de achtste week na Pinksteren</nl>
+      <sv>Tisdagen i åttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y084</id>
+      <en>Wednesday in the Eighth week after Pentecost</en>
+      <nl>Woensdag in de achtste week na Pinksteren</nl>
+      <sv>Onsdagen i åttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y085</id>
+      <en>Thursday in the Eighth week after Pentecost</en>
+      <nl>Donderdag in de achtste week na Pinksteren</nl>
+      <sv>Torsdagen i åttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y086</id>
+      <en>Friday in the Eighth week after Pentecost</en>
+      <nl>Vrijdag in de achtste week na Pinksteren</nl>
+      <sv>Fredagen ​​i åttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y087</id>
+      <en>Saturday in the Eighth week after Pentecost</en>
+      <nl>Zaterdag in de achtste week na Pinksteren</nl>
+      <sv>Lördagen i åttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y092</id>
+      <en>Monday in the Ninth week after Pentecost</en>
+      <nl>Maandag in de negende week na Pinksteren</nl>
+      <sv>Måndagen i nionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y093</id>
+      <en>Tuesday in the Ninth week after Pentecost</en>
+      <nl>Dinsdag in de negende week na Pinksteren</nl>
+      <sv>Tisdagen i nionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y094</id>
+      <en>Wednesday in the Ninth week after Pentecost</en>
+      <nl>Woensdag in de negende week na Pinksteren</nl>
+      <sv>Onsdagen i nionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y095</id>
+      <en>Thursday in the Ninth week after Pentecost</en>
+      <nl>Donderdag in de negende week na Pinksteren</nl>
+      <sv>Torsdagen i nionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y096</id>
+      <en>Friday in the Ninth week after Pentecost</en>
+      <nl>Vrijdag in de negende week na Pinksteren</nl>
+      <sv>Fredagen ​​i nionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y097</id>
+      <en>Saturday in the Ninth week after Pentecost</en>
+      <nl>Zaterdag in de negende week na Pinksteren</nl>
+      <sv>Lördagen i nionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y102</id>
+      <en>Monday in the Tenth week after Pentecost</en>
+      <nl>Maandag in de tiende week na Pinksteren</nl>
+      <sv>Måndagen i tionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y103</id>
+      <en>Tuesday in the Tenth week after Pentecost</en>
+      <nl>Dinsdag in de tiende week na Pinksteren</nl>
+      <sv>Tisdagen i tionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y104</id>
+      <en>Wednesday in the Tenth week after Pentecost</en>
+      <nl>Woensdag in de tiende week na Pinksteren</nl>
+      <sv>Onsdagen i tionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y105</id>
+      <en>Thursday in the Tenth week after Pentecost</en>
+      <nl>Donderdag in de tiende week na Pinksteren</nl>
+      <sv>Torsdagen i tionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y106</id>
+      <en>Friday in the Tenth week after Pentecost</en>
+      <nl>Vrijdag in de tiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i tionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y107</id>
+      <en>Saturday in the Tenth week after Pentecost</en>
+      <nl>Zaterdag in de tiende week na Pinksteren</nl>
+      <sv>Lördagen i tionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y112</id>
+      <en>Monday in the Eleventh week after Pentecost</en>
+      <nl>Maandag in de Elfde week na Pinksteren</nl>
+      <sv>Måndagen i elfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y113</id>
+      <en>Tuesday in the Eleventh week after Pentecost</en>
+      <nl>Dinsdag in de Elfde week na Pinksteren</nl>
+      <sv>Tisdagen i elfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y114</id>
+      <en>Wednesday in the Eleventh week after Pentecost</en>
+      <nl>Woensdag in de elfde week na Pinksteren</nl>
+      <sv>Onsdagen i elfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y115</id>
+      <en>Thursday in the Eleventh week after Pentecost</en>
+      <nl>Donderdag in de elfde week na Pinksteren</nl>
+      <sv>Torsdagen i elfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y116</id>
+      <en>Friday in the Eleventh week after Pentecost</en>
+      <nl>Vrijdag in de Elfde week na Pinksteren</nl>
+      <sv>Fredagen ​​i elfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y117</id>
+      <en>Saturday in the Eleventh week after Pentecost</en>
+      <nl>Zaterdag in de Elfde week na Pinksteren</nl>
+      <sv>Lördagen i elfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y122</id>
+      <en>Monday in the Twelfth week after Pentecost</en>
+      <nl>Maandag in de twaalfde week na Pinksteren</nl>
+      <sv>Måndagen i tolfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y123</id>
+      <en>Tuesday in the Twelfth week after Pentecost</en>
+      <nl>Dinsdag in de twaalfde week na Pinksteren</nl>
+      <sv>Tisdagen i tolfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y124</id>
+      <en>Wednesday in the Twelfth week after Pentecost</en>
+      <nl>Woensdag in de twaalfde week na Pinksteren</nl>
+      <sv>Onsdagen i tolfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y125</id>
+      <en>Thursday in the Twelfth week after Pentecost</en>
+      <nl>Donderdag in de twaalfde week na Pinksteren</nl>
+      <sv>Torsdagen i tolfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y126</id>
+      <en>Friday in the Twelfth week after Pentecost</en>
+      <nl>Vrijdag in de twaalfde week na Pinksteren</nl>
+      <sv>Fredagen ​​i tolfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y127</id>
+      <en>Saturday in the Twelfth week after Pentecost</en>
+      <nl>Zaterdag in de twaalfde week na Pinksteren</nl>
+      <sv>Lördagen i tolfte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y132</id>
+      <en>Monday in the Thirtheenth week after Pentecost</en>
+      <nl>Maandag in de dertiende week na Pinksteren</nl>
+      <sv>Måndagen i trettonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y133</id>
+      <en>Tuesday in the Thirtheenth week after Pentecost</en>
+      <nl>Dinsdag in de dertiende week na Pinksteren</nl>
+      <sv>Tisdagen i trettonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y134</id>
+      <en>Wednesday in the Thirtheenth week after Pentecost</en>
+      <nl>Woensdag in de dertiende week na Pinksteren</nl>
+      <sv>Onsdagen i trettonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y135</id>
+      <en>Thursday in the Thirtheenth week after Pentecost</en>
+      <nl>Donderdag in de dertiende week na Pinksteren</nl>
+      <sv>Torsdagen i trettonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y136</id>
+      <en>Friday in the Thirtheenth week after Pentecost</en>
+      <nl>Vrijdag in de dertiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i trettonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y137</id>
+      <en>Saturday in the Thirtheenth week after Pentecost</en>
+      <nl>Zaterdag in de dertiende week na Pinksteren</nl>
+      <sv>Lördagen i trettonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y142</id>
+      <en>Monday in the Fourteenth week after Pentecost</en>
+      <nl>Maandag in de veertiende week na Pinksteren</nl>
+      <sv>Måndagen i fjortonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y143</id>
+      <en>Tuesday in the Fourteenth week after Pentecost</en>
+      <nl>Dinsdag in de veertiende week na Pinksteren</nl>
+      <sv>Tisdagen i fjortonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y144</id>
+      <en>Wednesday in the Fourteenth week after Pentecost</en>
+      <nl>Woensdag in de veertiende week na Pinksteren</nl>
+      <sv>Onsdagen i fjortonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y145</id>
+      <en>Thursday in the Fourteenth week after Pentecost</en>
+      <nl>Donderdag in de veertiende week na Pinksteren</nl>
+      <sv>Torsdagen i fjortonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y146</id>
+      <en>Friday in the Fourteenth week after Pentecost</en>
+      <nl>Vrijdag in de veertiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i fjortonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y147</id>
+      <en>Saturday in the Fourteenth week after Pentecost</en>
+      <nl>Zaterdag in de veertiende week na Pinksteren</nl>
+      <sv>Lördagen i fjortonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y152</id>
+      <en>Monday in the Fifteenth week after Pentecost</en>
+      <nl>Maandag in de vijftiende week na Pinksteren</nl>
+      <sv>Måndagen i femtonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y153</id>
+      <en>Tuesday in the Fifteenth week after Pentecost</en>
+      <nl>Dinsdag in de vijftiende week na Pinksteren</nl>
+      <sv>Tisdagen i femtonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y154</id>
+      <en>Wednesday in the Fifteenth week after Pentecost</en>
+      <nl>Woensdag in de vijftiende week na Pinksteren</nl>
+      <sv>Onsdagen i femtonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y155</id>
+      <en>Thursday in the Fifteenth week after Pentecost</en>
+      <nl>Donderdag in de vijftiende week na Pinksteren</nl>
+      <sv>Torsdagen i femtonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y156</id>
+      <en>Friday in the Fifteenth week after Pentecost</en>
+      <nl>Vrijdag in de vijftiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i femtonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y157</id>
+      <en>Saturday in the Fifteenth week after Pentecost</en>
+      <nl>Zaterdag in de vijftiende week na Pinksteren</nl>
+      <sv>Lördagen i femtonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y162</id>
+      <en>Monday in the Sixteenth week after Pentecost</en>
+      <nl>Maandag in de zestiende week na Pinksteren</nl>
+      <sv>Måndagen i sextonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y163</id>
+      <en>Tuesday in the Sixteenth week after Pentecost</en>
+      <nl>Dinsdag in de zestiende week na Pinksteren</nl>
+      <sv>Tisdagen i sextonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y164</id>
+      <en>Wednesday in the Sixteenth week after Pentecost</en>
+      <nl>Woensdag in de zestiende week na Pinksteren</nl>
+      <sv>Onsdagen i sextonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y165</id>
+      <en>Thursday in the Sixteenth week after Pentecost</en>
+      <nl>Donderdag in de zestiende week na Pinksteren</nl>
+      <sv>Torsdagen i sextonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y166</id>
+      <en>Friday in the Sixteenth week after Pentecost</en>
+      <nl>Vrijdag in de zestiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i sextonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y167</id>
+      <en>Saturday in the Sixteenth week after Pentecost</en>
+      <nl>Zaterdag in de zestiende week na Pinksteren</nl>
+      <sv>Lördagen i sextonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y172</id>
+      <en>Monday in the Seventeenth week after Pentecost</en>
+      <nl>Maandag in de Zeventiende week na Pinksteren</nl>
+      <sv>Måndagen i sjuttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y173</id>
+      <en>Tuesday in the Seventeenth week after Pentecost</en>
+      <nl>Dinsdag in de Zeventiende week na Pinksteren</nl>
+      <sv>Tisdagen i sjuttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y174</id>
+      <en>Wednesday in the Seventeenth week after Pentecost</en>
+      <nl>Woensdag in de Zeventiende week na Pinksteren</nl>
+      <sv>Onsdagen i sjuttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y175</id>
+      <en>Thursday in the Seventeenth week after Pentecost</en>
+      <nl>Donderdag in de zeventiende week na Pinksteren</nl>
+      <sv>Torsdagen i sjuttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y176</id>
+      <en>Friday in the Seventeenth week after Pentecost</en>
+      <nl>Vrijdag in de Zeventiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i sjuttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y177</id>
+      <en>Saturday in the Seventeenth week after Pentecost</en>
+      <nl>Zaterdag in de Zeventiende week na Pinksteren</nl>
+      <sv>Lördagen i sjuttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y182</id>
+      <en>Monday in the Eighteenth week after Pentecost</en>
+      <nl>Maandag in de achttiende week na Pinksteren</nl>
+      <sv>Måndagen i artonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y183</id>
+      <en>Tuesday in the Eighteenth week after Pentecost</en>
+      <nl>Dinsdag in de achttiende week na Pinksteren</nl>
+      <sv>Tisdagen i artonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y184</id>
+      <en>Wednesday in the Eighteenth week after Pentecost</en>
+      <nl>Woensdag in de achttiende week na Pinksteren</nl>
+      <sv>Onsdagen i artonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y185</id>
+      <en>Thursday in the Eighteenth week after Pentecost</en>
+      <nl>Donderdag in de achttiende week na Pinksteren</nl>
+      <sv>Torsdagen i artonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y186</id>
+      <en>Friday in the Eighteenth week after Pentecost</en>
+      <nl>Vrijdag in de achttiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i artonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y187</id>
+      <en>Saturday in the Eighteenth week after Pentecost</en>
+      <nl>Zaterdag in de achttiende week na Pinksteren</nl>
+      <sv>Lördagen i artonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y192</id>
+      <en>Monday in the Nineteenth week after Pentecost</en>
+      <nl>Maandag in de negentiende week na Pinksteren</nl>
+      <sv>Måndagen i nittonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y193</id>
+      <en>Tuesday in the Nineteenth week after Pentecost</en>
+      <nl>Dinsdag in de negentiende week na Pinksteren</nl>
+      <sv>Tisdagen i nittonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y194</id>
+      <en>Wednesday in the Nineteenth week after Pentecost</en>
+      <nl>Woensdag in de negentiende week na Pinksteren</nl>
+      <sv>Onsdagen i nittonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y195</id>
+      <en>Thursday in the Nineteenth week after Pentecost</en>
+      <nl>Donderdag in de negentiende week na Pinksteren</nl>
+      <sv>Torsdagen i nittonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y196</id>
+      <en>Friday in the Nineteenth week after Pentecost</en>
+      <nl>Vrijdag in de negentiende week na Pinksteren</nl>
+      <sv>Fredagen ​​i nittonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y197</id>
+      <en>Saturday in the Nineteenth week after Pentecost</en>
+      <nl>Zaterdag in de negentiende week na Pinksteren</nl>
+      <sv>Lördagen i nittonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y202</id>
+      <en>Monday in the Twentieth week after Pentecost</en>
+      <nl>Maandag in de twintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y203</id>
+      <en>Tuesday in the Twentieth week after Pentecost</en>
+      <nl>Dinsdag in de twintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y204</id>
+      <en>Wednesday in the Twentieth week after Pentecost</en>
+      <nl>Woensdag in de twintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y205</id>
+      <en>Thursday in the Twentieth week after Pentecost</en>
+      <nl>Donderdag in de twintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y206</id>
+      <en>Friday in the Twentieth week after Pentecost</en>
+      <nl>Vrijdag in de twintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y207</id>
+      <en>Saturday in the Twentieth week after Pentecost</en>
+      <nl>Zaterdag in de twintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y212</id>
+      <en>Monday in the Twenty-first week after Pentecost</en>
+      <nl>Maandag in de eentwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugoförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y213</id>
+      <en>Tuesday in the Twenty-first week after Pentecost</en>
+      <nl>Dinsdag in de eentwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugoförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y214</id>
+      <en>Wednesday in the Twenty-first week after Pentecost</en>
+      <nl>Woensdag in de eentwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugoförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y215</id>
+      <en>Thursday in the Twenty-first week after Pentecost</en>
+      <nl>Donderdag in de eentwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugoförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y216</id>
+      <en>Friday in the Twenty-first week after Pentecost</en>
+      <nl>Vrijdag in de eentwintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugoförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y217</id>
+      <en>Saturday in the Twenty-first week after Pentecost</en>
+      <nl>Zaterdag in de eentwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugoförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y222</id>
+      <en>Monday in the Twenty-second week after Pentecost</en>
+      <nl>Maandag in de tweeëntwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugoandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y223</id>
+      <en>Tuesday in the Twenty-second week after Pentecost</en>
+      <nl>Dinsdag in de tweeëntwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugoandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y224</id>
+      <en>Wednesday in the Twenty-second week after Pentecost</en>
+      <nl>Woensdag in de tweeëntwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugoandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y225</id>
+      <en>Thursday in the Twenty-second week after Pentecost</en>
+      <nl>Donderdag in de tweeëntwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugoandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y226</id>
+      <en>Friday in the Twenty-second week after Pentecost</en>
+      <nl>Vrijdag in de tweeëntwintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugoandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y227</id>
+      <en>Saturday in the Twenty-second week after Pentecost</en>
+      <nl>Zaterdag in de tweeëntwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugoandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y232</id>
+      <en>Monday in the Twenth-third week after Pentecost</en>
+      <nl>Maandag in de drieëntwintigste  week na Pinksteren</nl>
+      <sv>Måndagen i tjugotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y233</id>
+      <en>Tuesday in the Twenth-third week after Pentecost</en>
+      <nl>Dinsdag in de drieëntwintigste  week na Pinksteren</nl>
+      <sv>Tisdagen i tjugotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y234</id>
+      <en>Wednesday in the Twenth-third week after Pentecost</en>
+      <nl>Woensdag in de drieëntwintigste  week na Pinksteren</nl>
+      <sv>Onsdagen i tjugotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y235</id>
+      <en>Thursday in the Twenth-third week after Pentecost</en>
+      <nl>Donderdag in de drieëntwintigste  week na Pinksteren</nl>
+      <sv>Torsdagen i tjugotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y236</id>
+      <en>Friday in the Twenth-third week after Pentecost</en>
+      <nl>Vrijdag in de drieëntwintigste  week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y237</id>
+      <en>Saturday in the Twenth-third week after Pentecost</en>
+      <nl>Zaterdag in de drieëntwintigste  week na Pinksteren</nl>
+      <sv>Lördagen i tjugotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y242</id>
+      <en>Monday in the Twenty-fourth week after Pentecost</en>
+      <nl>Maandag in de vierentwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugofjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y243</id>
+      <en>Tuesday in the Twenty-fourth week after Pentecost</en>
+      <nl>Dinsdag in het vierentwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugofjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y244</id>
+      <en>Wednesday in the Twenty-fourth week after Pentecost</en>
+      <nl>Woensdag in de vierentwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugofjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y245</id>
+      <en>Thursday in the Twenty-fourth week after Pentecost</en>
+      <nl>Donderdag in de vierentwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugofjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y246</id>
+      <en>Friday in the Twenty-fourth week after Pentecost</en>
+      <nl>Vrijdag in de vierentwintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugofjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y247</id>
+      <en>Saturday in the Twenty-fourth week after Pentecost</en>
+      <nl>Zaterdag in de vierentwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugofjärde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y252</id>
+      <en>Monday in the Twenty-fifth week after Pentecost</en>
+      <nl>Maandag in de vijfentwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugofemte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y253</id>
+      <en>Tuesday in the Twenty-fifth week after Pentecost</en>
+      <nl>Dinsdag in de vijfentwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugofemte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y254</id>
+      <en>Wednesday in the Twenty-fifth week after Pentecost</en>
+      <nl>Woensdag in de vijfentwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugofemte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y255</id>
+      <en>Thursday in the Twenty-fifth week after Pentecost</en>
+      <nl>Donderdag in de vijfentwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugofemte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y256</id>
+      <en>Friday in the Twenty-fifth week after Pentecost</en>
+      <nl>Vrijdag in de vijfentwintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugofemte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y257</id>
+      <en>Saturday in the Twenty-fifth week after Pentecost</en>
+      <nl>Zaterdag in de vijfentwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugofemte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y262</id>
+      <en>Monday in the Twenty-sixth week after Pentecost</en>
+      <nl>Maandag in de zesentwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugosjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y263</id>
+      <en>Tuesday in the Twenty-sixth week after Pentecost</en>
+      <nl>Dinsdag in de zesentwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugosjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y264</id>
+      <en>Wednesday in the Twenty-sixth week after Pentecost</en>
+      <nl>Woensdag in de zesentwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugosjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y265</id>
+      <en>Thursday in the Twenty-sixth week after Pentecost</en>
+      <nl>Donderdag in de zesentwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugosjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y266</id>
+      <en>Friday in the Twenty-sixth week after Pentecost</en>
+      <nl>Vrijdag in de zesentwintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugosjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y267</id>
+      <en>Saturday in the Twenty-sixth week after Pentecost</en>
+      <nl>Zaterdag in de zesentwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugosjätte veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y272</id>
+      <en>Monday in the Twenty-seventh week after Pentecost</en>
+      <nl>Maandag in de zeventwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugosjunde vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y273</id>
+      <en>Tuesday in the Twenty-seventh week after Pentecost</en>
+      <nl>Dinsdag in de zeventwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugosjunde vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y274</id>
+      <en>Wednesday in the Twenty-seventh week after Pentecost</en>
+      <nl>Woensdag in de zeventwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugosjunde vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y275</id>
+      <en>Thursday in the Twenty-seventh week after Pentecost</en>
+      <nl>Donderdag in de zeventwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugosjunde vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y276</id>
+      <en>Friday in the Twenty-seventh week after Pentecost</en>
+      <nl>Vrijdag in de zeventwintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugosjunde vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y277</id>
+      <en>Saturday in the Twenty-seventh week after Pentecost</en>
+      <nl>Zaterdag in de zeventwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugosjunde vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y282</id>
+      <en>Monday in the Twenty-eighth week after Pentecost</en>
+      <nl>Maandag in de achtentwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugoåttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y283</id>
+      <en>Tuesday in the Twenty-eighth week after Pentecost</en>
+      <nl>Dinsdag in de achtentwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugoåttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y284</id>
+      <en>Wednesday in the Twenty-eighth week after Pentecost</en>
+      <nl>Woensdag in de achtentwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugoåttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y285</id>
+      <en>Thursday in the Twenty-eighth week after Pentecost</en>
+      <nl>Donderdag in de achtentwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugoåttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y286</id>
+      <en>Friday in the Twenty-eighth week after Pentecost</en>
+      <nl>Vrijdag in de achtentwintigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i tjugoåttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y287</id>
+      <en>Saturday in the Twenty-eighth week after Pentecost</en>
+      <nl>Zaterdag in de achtentwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugoåttonde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y292</id>
+      <en>Monday in the Twenty-ninth week after Pentecost</en>
+      <nl>Maandag in de Negentwintigste week na Pinksteren</nl>
+      <sv>Måndagen i tjugonionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y293</id>
+      <en>Tuesday in the Twenty-ninth week after Pentecost</en>
+      <nl>Dinsdag in de negentwintigste week na Pinksteren</nl>
+      <sv>Tisdagen i tjugonionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y294</id>
+      <en>Wednesday in the Twenty-ninth week after Pentecost</en>
+      <nl>Woensdag in de negentwintigste week na Pinksteren</nl>
+      <sv>Onsdagen i tjugonionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y295</id>
+      <en>Thursday in the Twenty-ninth week after Pentecost</en>
+      <nl>Donderdag in de negentwintigste week na Pinksteren</nl>
+      <sv>Torsdagen i tjugonionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y296</id>
+      <en>Friday in the Twenty-ninth week after Pentecost</en>
+      <nl>Vrijdag in de negentwintigste week na Pinksteren</nl>
+      <sv>Fredagen i ​​tjugonionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y297</id>
+      <en>Saturday in the Twenty-ninth week after Pentecost</en>
+      <nl>Zaterdag in de negentwintigste week na Pinksteren</nl>
+      <sv>Lördagen i tjugonionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y302</id>
+      <en>Monday in the Thirtieth week after Pentecost</en>
+      <nl>Maandag in de dertigste week na Pinksteren</nl>
+      <sv>Måndagen i trettionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y303</id>
+      <en>Tuesday in the Thirtieth week after Pentecost</en>
+      <nl>Dinsdag in de dertigste week na Pinksteren</nl>
+      <sv>Tisdagen i trettionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y304</id>
+      <en>Wednesday in the Thirtieth week after Pentecost</en>
+      <nl>Woensdag in de dertigste week na Pinksteren</nl>
+      <sv>Onsdagen i trettionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y305</id>
+      <en>Thursday in the Thirtieth week after Pentecost</en>
+      <nl>Donderdag in de dertigste week na Pinksteren</nl>
+      <sv>Torsdagen i trettionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y306</id>
+      <en>Friday in the Thirtieth week after Pentecost</en>
+      <nl>Vrijdag in de dertigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i trettionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y307</id>
+      <en>Saturday in the Thirtieth week after Pentecost</en>
+      <nl>Zaterdag in de dertigste week na Pinksteren</nl>
+      <sv>Lördagen i trettionde veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y312</id>
+      <en>Monday in the Thirty-first week after Pentecost</en>
+      <nl>Maandag in de eendertigste week na Pinksteren</nl>
+      <sv>Måndagen i trettioförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y313</id>
+      <en>Tuesday in the Thirty-first week after Pentecost</en>
+      <nl>Dinsdag in de eendertigste week na Pinksteren</nl>
+      <sv>Tisdagen i trettioförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y314</id>
+      <en>Wednesday in the Thirty-first week after Pentecost</en>
+      <nl>Woensdag in de eendertigste week na Pinksteren</nl>
+      <sv>Onsdagen i trettioförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y315</id>
+      <en>Thursday in the Thirty-first week after Pentecost</en>
+      <nl>Donderdag in de eendertigste week na Pinksteren</nl>
+      <sv>Torsdagen i trettioförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y316</id>
+      <en>Friday in the Thirty-first week after Pentecost</en>
+      <nl>Vrijdag in de eendertigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i trettioförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y317</id>
+      <en>Saturday in the Thirty-first week after Pentecost</en>
+      <nl>Zaterdag in de eendertigste week na Pinksteren</nl>
+      <sv>Lördagen i trettioförsta veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y322</id>
+      <en>Monday in the Thirty-second week after Pentecost</en>
+      <nl>Maandag in de tweeëndertigste  week na Pinksteren</nl>
+      <sv>Måndagen i trettioandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y323</id>
+      <en>Tuesday in the Thirty-second week after Pentecost</en>
+      <nl>Dinsdag in de tweeëndertigste  week na Pinksteren</nl>
+      <sv>Tisdagen i trettioandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y324</id>
+      <en>Wednesday in the Thirty-second week after Pentecost</en>
+      <nl>Woensdag in de tweeëndertigste  week na Pinksteren</nl>
+      <sv>Onsdagen i trettioandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y325</id>
+      <en>Thursday in the Thirty-second week after Pentecost</en>
+      <nl>Donderdag in de tweeëndertigste  week na Pinksteren</nl>
+      <sv>Torsdagen i trettioandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y326</id>
+      <en>Friday in the Thirty-second week after Pentecost</en>
+      <nl>Vrijdag in de tweeëndertigste  week na Pinksteren</nl>
+      <sv>Fredagen ​​i trettioandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y327</id>
+      <en>Saturday in the Thirty-second week after Pentecost</en>
+      <nl>Zaterdag in de tweeëndertigste  week na Pinksteren</nl>
+      <sv>Lördagen i trettioandra veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y332</id>
+      <en>Monday in the Thirty-third week after Pentecost</en>
+      <nl>Maandag in de drieëndertigste week na Pinksteren</nl>
+      <sv>Måndagen i trettiotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y333</id>
+      <en>Tuesday in the Thirty-third week after Pentecost</en>
+      <nl>Dinsdag in de drieëndertigste week na Pinksteren</nl>
+      <sv>Tisdagen i trettiotredje vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y334</id>
+      <en>Wednesday in the Thirty-third week after Pentecost</en>
+      <nl>Woensdag in de drieëndertigste week na Pinksteren</nl>
+      <sv>Onsdagen i trettiotredje vecka efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y335</id>
+      <en>Thursday in the Thirty-third week after Pentecost</en>
+      <nl>Donderdag in de drieëndertigste week na Pinksteren</nl>
+      <sv>Torsdagen i trettiotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y336</id>
+      <en>Friday in the Thirty-third week after Pentecost</en>
+      <nl>Vrijdag in de drieëndertigste week na Pinksteren</nl>
+      <sv>Fredagen ​​i trettiotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>Y337</id>
+      <en>Saturday in the Thirty-third week after Pentecost</en>
+      <nl>Zaterdag in de drieëndertigste week na Pinksteren</nl>
+      <sv>Lördagen i trettiotredje veckan efter Pingst</sv>
+   </row>
+   <row>
+      <id>S4</id>
+      <en>Ember Wednesday in September</en>
+      <nl>Quatertemperwoensdag in september</nl>
+      <sv>Kvatemberonsdagen i september</sv>
+   </row>
+   <row>
+      <id>S6</id>
+      <en>Ember Friday in September</en>
+      <nl>Quatertempervrijdag in september</nl>
+      <sv>Kvatemberfredagen ​​i september</sv>
+   </row>
+   <row>
+      <id>S7</id>
+      <en>Ember Saturday in September</en>
+      <nl>Quatertemperzaterdag in september</nl>
+      <sv>Kvatemberlördagen i september</sv>
+   </row>
+   <row>
+      <id>CHK</id>
+      <en>Christ the King</en>
+      <nl>Christus Koning</nl>
+      <sv>Kristus Konungens högtid</sv>
+   </row>
+   <row>
+      <id>24S</id>
+      <en>Twenty-fourth and Last Sunday after Pentecost</en>
+      <nl>Vierentwintigste en laatste zondag na Pinksteren</nl>
+      <sv>Tjugofjärde och sista söndagen efter Pingst</sv>
+   </row>
+   <row>
+      <id>MAT</id>
+      <en>St. Matthias Apostle</en>
+      <nl>St. Matthias Apostel</nl>
+      <sv>Matteus, apostel</sv>
+   </row>
+   <row>
+      <id>GRL</id>
+      <en>Greater Litanies</en>
+      <nl>Grotere Litanies</nl>
+      <sv>Större Litaniorna</sv>
+   </row>
+   <row>
+      <id>Z1224</id>
+      <en>Vigil of Christmas</en>
+      <nl>Vigilie van Kerstmis</nl>
+      <sv>Julafton (vigilia)</sv>
+   </row>
+   <row>
+      <id>Z1225:1</id>
+      <en>Christmas midnight Mass</en>
+      <nl>Heilige Kerstnacht: nachtmis</nl>
+      <sv>Julvakan</sv>
+   </row>
+   <row>
+      <id>Z1225:2</id>
+      <en>Christmas dawn Mass</en>
+      <nl>Kerstdag: dageraadsmis</nl>
+      <sv>Julottan</sv>
+   </row>
+   <row>
+      <id>Z1225:3</id>
+      <en>Christmas day Mass</en>
+      <nl>Kerstdag: dagmis</nl>
+      <sv>Juldagen</sv>
+   </row>
+   <row>
+      <id>Z1226</id>
+      <en>Feast of Saint Stephen, deacon and protomartyr</en>
+      <nl>H. Stefanus, martelaar</nl>
+      <sv>Stefanos, den förste martyren, diakon</sv>
+   </row>
+   <row>
+      <id>Z1227</id>
+      <en>Feast of Saint John, apostle and evangelist</en>
+      <nl>H. Johannes, apostel en evangelist</nl>
+      <sv>Johannes, apostel och evangelist</sv>
+   </row>
+   <row>
+      <id>Z1228</id>
+      <en>Feast of the Holy Innocents</en>
+      <nl>HH. Onnozele Kinderen, martelaren</nl>
+      <sv>De oskyldiga barnen</sv>
+   </row>
+   <row>
+      <id>Z0101</id>
+      <en>Octave day of Christmas</en>
+      <nl>Octaafdag van Kerstmis</nl>
+      <sv>Juldagens oktavdag</sv>
+   </row>
+   <row>
+      <id>Z0102</id>
+      <en>Second day of January</en>
+      <nl>Tweede dag van januari</nl>
+      <sv>Andra dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0103</id>
+      <en>Third day of January</en>
+      <nl>Derde dag van januari</nl>
+      <sv>Tredje dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0104</id>
+      <en>Fourth day of January</en>
+      <nl>Vierde dag van januari</nl>
+      <sv>Fjärde dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0105</id>
+      <en>Fifth day of January</en>
+      <nl>Vijfde dag van januari</nl>
+      <sv>Femte dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0107</id>
+      <en>Seventh day of January</en>
+      <nl>Zevende dag van januari</nl>
+      <sv>Sjunde dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0108</id>
+      <en>Eighth day of January</en>
+      <nl>Achtste dag van januari</nl>
+      <sv>Åttonde dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0109</id>
+      <en>Ninth day of January</en>
+      <nl>Negende dag van januari</nl>
+      <sv>Nionde dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0110</id>
+      <en>Tenth day of January</en>
+      <nl>Tiende dag van januari</nl>
+      <sv>Tionde dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0111</id>
+      <en>Eleventh day of January</en>
+      <nl>Elfde dag van januari</nl>
+      <sv>Elfte dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0112</id>
+      <en>Twelfth day of January</en>
+      <nl>Twaalfde dag van januari</nl>
+      <sv>Tolfte dagen i januari</sv>
+   </row>
+   <row>
+      <id>Z0106</id>
+      <en>Epiphany</en>
+      <nl>Openbaring van de Heer</nl>
+      <sv>Epifania</sv>
+   </row>
+   <row>
+      <id>Z0113</id>
+      <en>Baptism of the Lord</en>
+      <nl>Doop van de Heer</nl>
+      <sv>Herrens Dop</sv>
+   </row>
+   <row>
+      <id>Z0319</id>
+      <en>St. Joseph, Spouse of the Blessed Virgin Mary</en>
+      <nl>H. Jozef, bruidegom van de H. Maagd Maria</nl>
+      <sv>St Josef, Jungfru Marie brudgum</sv>
+   </row>
+   <row>
+      <id>Z0325</id>
+      <en>Annunciation of the Blessed Virgin Mary</en>
+      <nl>Aankondiging van de Heer</nl>
+      <sv>Jungfru Marie Bebådelse</sv>
+   </row>
+   <row>
+      <id>Z0501</id>
+      <en>St. Joseph the Workman, Spouse of the Blessed Virgin Mary</en>
+      <nl>H. Jozef, arbeider, bruidegom van de H. Maagd Maria</nl>
+      <sv>St Josef Arbetaren</sv>
+   </row>
+   <row>
+      <id>Z0624</id>
+      <en>Nativity of St. John the Baptist</en>
+      <nl>Geboorte van de H. Johannes de Doper</nl>
+      <sv>Johannes Döparens födelse</sv>
+   </row>
+   <row>
+      <id>Z0629</id>
+      <en>Ss. Peter and Paul Apostles</en>
+      <nl>HH. Petrus en Paulus, apostelen</nl>
+      <sv>Petrus och Paulus, app</sv>
+   </row>
+   <row>
+      <id>Z0701</id>
+      <en>The Most Precious Blood of our Lord Jesus Christ</en>
+      <nl>Kostbaar Bloed van O.H. Jezus Christus</nl>
+      <sv>Vår Herre Jesu Kristi dyrbaraste blod</sv>
+   </row>
+   <row>
+      <id>Z0815</id>
+      <en>Assumption of the Blessed Virgin Mary</en>
+      <nl>Tenhemelopneming van de H. Maagd Maria</nl>
+      <sv>Saliga Jungfrun Marie upptagning i himmelen </sv>
+   </row>
+   <row>
+      <id>Z0929</id>
+      <en>Dedication of St. Michael Archangel</en>
+      <nl>Wijding van de Basiliek van de H. Aartsengel Michaël</nl>
+      <sv>Ärkeängeln Mikael-basilikans invigningsdag</sv>
+   </row>
+   <row>
+      <id>Z1101</id>
+      <en>All Saints</en>
+      <nl>Allerheiligen</nl>
+      <sv>Alla Helgon</sv>
+   </row>
+   <row>
+      <id>Z1102</id>
+      <en>Commemoration of all the Faithful Departed</en>
+      <nl>Allerzielen</nl>
+      <sv>Alla Själar</sv>
+   </row>
+   <row>
+      <id>Z1208</id>
+      <en>Immaculate Conception of the Blessed Virgin Mary</en>
+      <nl>Onbevlekte Ontvangenis van de Heilige Maagd Maria</nl>
+      <sv>Jungfru Marie Obefläckade avlelse</sv>
+   </row>
+   <row>
+      <id>Z0202</id>
+      <en>Purification of the Blessed Virgin Mary</en>
+      <nl>Zuivering van de Heilige Maagd Maria</nl>
+      <sv>Jungfru Marie tempelgång</sv>
+   </row>
+   <row>
+      <id>Z0222</id>
+      <en>Chair of St. Peter</en>
+      <nl>Sint Petrus' Stoel</nl>
+      <sv>Petri biskopsstol</sv>
+   </row>
+   <row>
+      <id>Z0425</id>
+      <en>St. Mark Evangelist</en>
+      <nl>H. Markus, Evangelist</nl>
+      <sv>Markus, ev</sv>
+   </row>
+   <row>
+      <id>Z0511</id>
+      <en>Ss. Philip and James Apostles</en>
+      <nl>HH. Filippus en Jakobus, apostelen</nl>
+      <sv>Filippos och Jakob, app</sv>
+   </row>
+   <row>
+      <id>Z0531</id>
+      <en>Blessed Virgin Mary, Queen</en>
+      <nl>H. Maagd Maria, Koningin</nl>
+      <sv>Jungfru Maria, drottningen</sv>
+   </row>
+   <row>
+      <id>Z0702</id>
+      <en>Visitation of the Blessed Virgin Mary</en>
+      <nl>Visitatie van de H. Maagd Maria aan Elizabeth</nl>
+      <sv>Marie Besök</sv>
+   </row>
+   <row>
+      <id>Z0725</id>
+      <en>St. James Apostle</en>
+      <nl>H. Jakobus, Apostel</nl>
+      <sv>Jakob, ap</sv>
+   </row>
+   <row>
+      <id>Z0726</id>
+      <en>St. Anne Mother of the Blessed Virgin Mary</en>
+      <nl>H. Anna, Moeder van de H. Maagd Maria</nl>
+      <sv>Anna, Jungfru Marie moder</sv>
+   </row>
+   <row>
+      <id>Z0806</id>
+      <en>Transfiguration of our Lord Jesus Christ</en>
+      <nl>Gedaanteverandering van O.H. Jezus Christus</nl>
+      <sv>Kristi Förklaring</sv>
+   </row>
+   <row>
+      <id>Z0810</id>
+      <en>St. Laurence Martyr</en>
+      <nl>H. Laurentius, Martelaar</nl>
+      <sv>Laurentius, m</sv>
+   </row>
+   <row>
+      <id>Z0816</id>
+      <en>St. Joachim Father of the Blessed Virgin Mary</en>
+      <nl>H. Joachim, Vader van de H. Maagd Maria</nl>
+      <sv>Joakim, Jungfru Marie far</sv>
+   </row>
+   <row>
+      <id>Z0822</id>
+      <en>Immaculate Heart of the Blessed Virgin Mary</en>
+      <nl>Onbevlekt Hart van de H.Maagd Maria</nl>
+      <sv>Jungfru Marie Obefläckade Hjärta</sv>
+   </row>
+   <row>
+      <id>Z0824</id>
+      <en>St. Bartholomew Apostle</en>
+      <nl>H. Bartholomeus, Apostel</nl>
+      <sv>Bartolomeus, ap</sv>
+   </row>
+   <row>
+      <id>Z0908</id>
+      <en>Nativity of the Blessed Virgin Mary</en>
+      <nl>Geboorte van de H. Maagd Maria</nl>
+      <sv>Saliga Jungfrun Marie födelse</sv>
+   </row>
+   <row>
+      <id>Z0914</id>
+      <en>Exaltation of the Holy Cross</en>
+      <nl>Kruisverheffing</nl>
+      <sv>Heliga korsets upphöjelse</sv>
+   </row>
+   <row>
+      <id>Z0915</id>
+      <en>Seven Sorrows of the Blessed Virgin Mary</en>
+      <nl>Zeven Smarten van de H. Maagd Maria</nl>
+      <sv>Saliga Jungfrun Marie sju smärtor</sv>
+   </row>
+   <row>
+      <id>Z0921</id>
+      <en>St. Matthew Apostle and Evangelist</en>
+      <nl>H. Matteüs, Apostel en Evangelist</nl>
+      <sv>Matteus, ap &amp; ev</sv>
+   </row>
+   <row>
+      <id>Z1007</id>
+      <en>Blessed Virgin Mary of the Rosary</en>
+      <nl>H. Maagd Maria van de Rozenkrans</nl>
+      <sv>Vår Fru av Rosenkransen</sv>
+   </row>
+   <row>
+      <id>Z1011</id>
+      <en>The Maternity of the Blessed Virgin Mary</en>
+      <nl>Het moederschap van de H. Maagd Maria</nl>
+      <sv>Marie moderskap</sv>
+   </row>
+   <row>
+      <id>Z1018</id>
+      <en>St. Luke Evangelist</en>
+      <nl>H. Lucas, Evangelist</nl>
+      <sv>Lukas, ev</sv>
+   </row>
+   <row>
+      <id>Z1028</id>
+      <en>Ss. Simon and Jude Apostles</en>
+      <nl>HH. Simon en Judas, Apostelen</nl>
+      <sv>Simon och Judas Taddeus, app</sv>
+   </row>
+   <row>
+      <id>Z1109</id>
+      <en>Dedication of the Archbasilica of the most Holy Saviour</en>
+      <nl>Wijding van de Aartsbasieliek van de Allerheiligste Verlosser</nl>
+      <sv>Lateranbasilikans invigningsdag</sv>
+   </row>
+   <row>
+      <id>Z1130</id>
+      <en>St. Andrew Apostle</en>
+      <nl>H. Andreas, Apostel</nl>
+      <sv>Andreas, ap</sv>
+   </row>
+   <row>
+      <id>Z1130:1</id>
+      <en>St. Andrew Apostle</en>
+      <nl>H. Andreas, Apostel</nl>
+      <sv>Andreas, ap</sv>
+   </row>
+   <row>
+      <id>Z1221</id>
+      <en>St. Thomas Apostle</en>
+      <nl>H. Thomas, Apostel</nl>
+      <sv>Tomas, ap</sv>
+   </row>
+   <row>
+      <id>Z0623</id>
+      <en>Vigil for the Nativity of St. John the Baptist</en>
+      <nl>Vigilie van de Geboorte van de H. Johannes de Doper</nl>
+      <sv>Johannes Döparens födelse (vigilia)</sv>
+   </row>
+   <row>
+      <id>Z0628</id>
+      <en>Vigil for Ss. Peter and Paul Apostles</en>
+      <nl>Vigilie van de HH. Petrus en Paulus</nl>
+      <sv>Petrus och Paulus, app (vigilia)</sv>
+   </row>
+   <row>
+      <id>Z0814</id>
+      <en>Vigil for the Assumption of the Blessed Virgin Mary</en>
+      <nl>Vigilie van de Hemelvaart van de H. Maagd Maria</nl>
+      <sv>Saliga Jungfru Marie upptagning i himmelen (vigilia)</sv>
+   </row>
+</rows>

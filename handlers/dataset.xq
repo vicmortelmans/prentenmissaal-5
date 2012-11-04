@@ -19,3 +19,31 @@ declare %an:sequential function ds:dumpCalendar() {
     }
     </calendar>
 };
+
+declare %an:sequential function ds:dumpDaysOf() {
+    resp:set-content-type('application/xml');
+    <i18n>
+    {
+        db:collection($data:i18nDaysOf)
+    }
+    </i18n>
+};
+
+declare %an:sequential function ds:dumpDaysEo() {
+    resp:set-content-type('application/xml');
+    <i18n>
+    {
+        db:collection($data:i18nDaysEo)
+    }
+    </i18n>
+};
+
+declare %an:sequential function ds:dumpTerminology() {
+    resp:set-content-type('application/xml');
+    <i18n>
+    {
+        db:collection($data:i18nTerminology)
+    }
+    </i18n>
+};
+

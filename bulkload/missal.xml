@@ -160,15 +160,12 @@
             <year/>
         </illustration>
     </reading>
-</mass><mass>
-    <name>Vierde zondag door het jaar<mass/>
-    </name>
+</mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass.xsd">
+    <name>Vierde zondag door het jaar</name>
     <day>
         <coordinates>Y041</coordinates>
-        <name>Vierde zondag door het jaar<mass/>
-        </name>
+        <name>Vierde zondag door het jaar</name>
         <name2/>
-        <date/>
         <cycle>A</cycle>
         <category>sunday</category>
     </day>
@@ -188,13 +185,12 @@
             <year>1518-1535</year>
         </illustration>
     </reading>
-</mass><mass/><mass/><mass>
+</mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass.xsd">
     <name>Vijfde zondag door het jaar</name>
     <day>
         <coordinates>Y051</coordinates>
         <name>Vijfde zondag door het jaar</name>
         <name2/>
-        <date/>
         <cycle>A</cycle>
         <category>sunday</category>
     </day>
@@ -1282,7 +1278,7 @@
 </mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass.xsd">
     <name>Heilige Kerstnacht: Nachtmis</name>
     <day>
-        <coordinates>Z1225:1</coordinates>
+        <coordinates idx="1">Z1225</coordinates>
         <name>Heilige Kerstnacht: Nachtmis</name>
         <name2/>
         <date>2000-12-25</date>
@@ -1310,7 +1306,7 @@
 </mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass.xsd">
     <name>Kerstdag: Dageraadsmis</name>
     <day>
-        <coordinates>Z1225:2</coordinates>
+        <coordinates idx="2">Z1225</coordinates>
         <name>Kerstdag: Dageraadsmis</name>
         <name2/>
         <date>2000-12-25</date>
@@ -1338,7 +1334,7 @@
 </mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass.xsd">
     <name>Kerstdag: Dagmis</name>
     <day>
-        <coordinates>Z1225:3</coordinates>
+        <coordinates idx="3">Z1225</coordinates>
         <name>Kerstmis: Dagmis</name>
         <name2/>
         <date>2000-12-25</date>
@@ -3678,10 +3674,10 @@
         </illustration>
     </reading>
 </mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass.xsd">
-    <name>First Sunday of Lent</name>
+    <name>Fifth Sunday of Lent</name>
     <day>
         <coordinates>L051</coordinates>
-        <name>First Sunday of Lent</name>
+        <name>Fifth Sunday of Lent</name>
         <name2/>
         <cycle>B</cycle>
         <category>sunday</category>
@@ -4451,17 +4447,16 @@
             <year>1890</year>
         </illustration>
     </reading>
-</mass><mass xmlns:fo="http://www.w3.org/1999/XSL/Format">
-    <coordinates>Y161</coordinates>
+</mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass.xsd">
     <name>Zestiende zondag door het jaar</name>
     <day>
+        <coordinates>Y161</coordinates>
         <name>Zestiende zondag door het jaar</name>
         <name2/>
-        <date/>
         <cycle>C</cycle>
         <category>sunday</category>
     </day>
-    <time>Tijd doorheen het jaar</time>
+    <time>Ordinary Time</time>
     <reading>
         <readingtype/>
         <readingreference>Lucas 10,38-42</readingreference>
@@ -6833,7 +6828,7 @@
 </mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass-eo.xsd">
     <name>Heilige Kerstnacht: Nachtmis</name>
     <day-eo>
-        <coordinates>Z1225:1</coordinates>
+        <coordinates idx="1">Z1225</coordinates>
         <name>Heilige Kerstnacht: Nachtmis</name>
         <name2/>
         <date>2000-12-25</date>
@@ -6851,7 +6846,7 @@
 </mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass-eo.xsd">
     <name>Kerstdag: Dageraadsmis</name>
     <day-eo>
-        <coordinates>Z1225:2</coordinates>
+        <coordinates idx="2">Z1225</coordinates>
         <name>Kerstdag: Dageraadsmis</name>
         <name2/>
         <date>2000-12-25</date>
@@ -6869,7 +6864,7 @@
 </mass><mass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/vicmortelmans/Missal/raw/master/mass-eo.xsd">
     <name>Kerstdag: Dagmis</name>
     <day-eo>
-        <coordinates>Z1225:3</coordinates>
+        <coordinates idx="3">Z1225</coordinates>
         <name>Kerstmis: Dagmis</name>
         <name2/>
         <date>2000-12-25</date>

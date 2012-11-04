@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows xmlns:yahoo="http://www.yahooapis.com/v1/base.rng">
+   <row>
+      <id/>
+      <en>Advent</en>
+      <de>Advent</de>
+      <es>Adviento</es>
+      <fr>Avent</fr>
+      <it>Avvento</it>
+      <la>#VALUE!</la>
+      <nl>Advent</nl>
+      <pt>Advento</pt>
+      <zh-cn>来临</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Christmas Season</en>
+      <de>Weihnachtszeit</de>
+      <es>Temporada de Navidad</es>
+      <fr>Saison de Noël</fr>
+      <it>Stagione di Natale</it>
+      <la>#VALUE!</la>
+      <nl>Kersttijd</nl>
+      <pt>Época de Natal</pt>
+      <zh-cn>圣诞节</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Easter</en>
+      <de>Ostern</de>
+      <es>Semana Santa</es>
+      <fr>Pâques</fr>
+      <it>Pasqua</it>
+      <la>#VALUE!</la>
+      <nl>Pasen</nl>
+      <pt>Páscoa</pt>
+      <zh-cn>复活节</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Easter Season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Paastijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>Easter Triduum</en>
+      <de>Ostertriduum</de>
+      <es>Triduo Pascual</es>
+      <fr>Triduum Pascal</fr>
+      <it>Triduo pasquale</it>
+      <la>#VALUE!</la>
+      <nl>Paastriduum</nl>
+      <pt>Tríduo Pascal</pt>
+      <zh-cn>复活节Triduum</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>epistel</en>
+      <de>Epistel</de>
+      <es>EPISTEL</es>
+      <fr>EPISTEL</fr>
+      <it>epistel</it>
+      <la>#VALUE!</la>
+      <nl>tweede lezing</nl>
+      <pt>epistel</pt>
+      <zh-cn>epistel</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Feast</en>
+      <de>Fest</de>
+      <es>Fiesta</es>
+      <fr>Fête</fr>
+      <it>Festa</it>
+      <la>#VALUE!</la>
+      <nl>Feest</nl>
+      <pt>Festa</pt>
+      <zh-cn>盛宴</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Feast of the Lord</en>
+      <de>Fest des Herrn</de>
+      <es>Fiesta del Señor</es>
+      <fr>Fête du Seigneur</fr>
+      <it>Festa del Signore</it>
+      <la>#VALUE!</la>
+      <nl>Feest van de Heer</nl>
+      <pt>Festa do Senhor</pt>
+      <zh-cn>主宴</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>gospel</en>
+      <de>Evangelium</de>
+      <es>Evangelio</es>
+      <fr>Évangile</fr>
+      <it>vangelo</it>
+      <la>#VALUE!</la>
+      <nl>evangelie</nl>
+      <pt>evangelho</pt>
+      <zh-cn>福音</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>lecture</en>
+      <de>Vortrag</de>
+      <es>conferencia</es>
+      <fr>conférence</fr>
+      <it>lezione</it>
+      <la>#VALUE!</la>
+      <nl>lezing</nl>
+      <pt>palestra</pt>
+      <zh-cn>演讲</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Lent</en>
+      <de>Fastenzeit</de>
+      <es>Cuaresma</es>
+      <fr>Carême</fr>
+      <it>Quaresima</it>
+      <la>#VALUE!</la>
+      <nl>Vasten</nl>
+      <pt>Emprestado</pt>
+      <zh-cn>斋</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Memorial</en>
+      <de>Memorial</de>
+      <es>Memorial</es>
+      <fr>Memorial</fr>
+      <it>Memorial</it>
+      <la>#VALUE!</la>
+      <nl>Gedachtenis</nl>
+      <pt>Memorial</pt>
+      <zh-cn>纪念</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Optional Memorial</en>
+      <de>Optional Memorial</de>
+      <es>Opcional Memorial</es>
+      <fr>Facultatif Memorial</fr>
+      <it>Facoltativo Memorial</it>
+      <la>#VALUE!</la>
+      <nl>Optionele gedachtenis</nl>
+      <pt>Opcional Memorial</pt>
+      <zh-cn>可选的纪念</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Ordinary Time</en>
+      <de>Jahreskreis</de>
+      <es>Tiempo Ordinario</es>
+      <fr>Temps Ordinaire</fr>
+      <it>Tempo ordinario</it>
+      <la>#VALUE!</la>
+      <nl>Tijd doorheen het jaar</nl>
+      <pt>Tempo Comum</pt>
+      <zh-cn>平时</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Paschaltide</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Paastijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>psalm</en>
+      <de>Psalm</de>
+      <es>salmo</es>
+      <fr>psaume</fr>
+      <it>salmo</it>
+      <la>#VALUE!</la>
+      <nl>psalm</nl>
+      <pt>salmo</pt>
+      <zh-cn>诗篇</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Season of Septuagesima</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Tijd van Septuagesima</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>Season per annum</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Tijd doorheen het jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>Solemnity</en>
+      <de>Feierlichkeit</de>
+      <es>Solemnidad</es>
+      <fr>Solennité</fr>
+      <it>Solennità</it>
+      <la>#VALUE!</la>
+      <nl>Hoogfeest</nl>
+      <pt>Solenidade</pt>
+      <zh-cn>严肃</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Sunday</en>
+      <de>Sonntag</de>
+      <es>Domingo</es>
+      <fr>Dimanche</fr>
+      <it>Domenica</it>
+      <la>#VALUE!</la>
+      <nl>Zondag</nl>
+      <pt>Domingo</pt>
+      <zh-cn>星期日</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Year A</en>
+      <de>Jahr A</de>
+      <es>Año A</es>
+      <fr>Année A</fr>
+      <it>Anno A</it>
+      <la>#VALUE!</la>
+      <nl>Jaar A</nl>
+      <pt>Ano A</pt>
+      <zh-cn>今年一</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Year B</en>
+      <de>Jahr B</de>
+      <es>Año B</es>
+      <fr>Année B</fr>
+      <it>Anno B</it>
+      <la>#VALUE!</la>
+      <nl>Jaar B</nl>
+      <pt>Ano B</pt>
+      <zh-cn>年乙</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Year C</en>
+      <de>Jahr C</de>
+      <es>Año C</es>
+      <fr>Année C</fr>
+      <it>Anno C</it>
+      <la>#VALUE!</la>
+      <nl>Jaar C</nl>
+      <pt>Ano C</pt>
+      <zh-cn>年C</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Year I</en>
+      <de>Jahr I</de>
+      <es>Año I</es>
+      <fr>Année  I</fr>
+      <it>Anno I</it>
+      <la>#VALUE!</la>
+      <nl>Jaar II</nl>
+      <pt>Ano I</pt>
+      <zh-cn>今年我</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Year II</en>
+      <de>Jahr II</de>
+      <es>Año II</es>
+      <fr>Année  II</fr>
+      <it>Anno II</it>
+      <la>#VALUE!</la>
+      <nl>Jaar II</nl>
+      <pt>Ano II</pt>
+      <zh-cn>二年级</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Calendar and lectionary for the Roman catholic liturgy in both forms</en>
+      <de>Kalender und Lektionar für die römisch-katholische Liturgie in beiden Formen</de>
+      <es>Calendario y leccionario para la liturgia católica romana en ambas formas</es>
+      <fr>Calendrier et lectionnaire de la liturgie catholique romaine dans les deux formes</fr>
+      <it>Calendario e Lezionario per la liturgia cattolica romana in entrambe le forme</it>
+      <la>#VALUE!</la>
+      <nl>Kalender en lectionarium voor de rooms-katholieke liturgie in beide vormen</nl>
+      <pt>Calendário e lecionário para a liturgia católica romana em ambas as formas</pt>
+      <zh-cn>两种形式为罗马天主教礼拜仪式的日历和lectionary</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Missal with illustrations</en>
+      <de>Messbuch mit Illustrationen</de>
+      <es>Misal con ilustraciones</es>
+      <fr>Missel avec illustrations</fr>
+      <it>Messale con illustrazioni</it>
+      <la>#VALUE!</la>
+      <nl>Missaal met illustraties</nl>
+      <pt>Missal com ilustrações</pt>
+      <zh-cn>弥撒与插图</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Ordinary form</en>
+      <de>Gewöhnliche Form</de>
+      <es>Formulario Ordinary</es>
+      <fr>Forme ordinaire</fr>
+      <it>Modulo di Ordinario</it>
+      <la>#VALUE!</la>
+      <nl>Gewone vorm</nl>
+      <pt>Forma ordinária</pt>
+      <zh-cn>普通的形式</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>OF</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>GV</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>Extraordinary form</en>
+      <de>Außerordentlichen Form</de>
+      <es>Forma Extraordinaria</es>
+      <fr>Forme extraordinaire</fr>
+      <it>Forma straordinaria</it>
+      <la>#VALUE!</la>
+      <nl>Buitengewone vorm</nl>
+      <pt>Forma extraordinária</pt>
+      <zh-cn>非经常性形式</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>EF</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>BV</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>Missal</en>
+      <de>Messbuch</de>
+      <es>Misal</es>
+      <fr>Missel</fr>
+      <it>Messale</it>
+      <la>#VALUE!</la>
+      <nl>Missaal</nl>
+      <pt>Missal</pt>
+      <zh-cn>弥撒</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>with illustrations</en>
+      <de>mit Illustrationen</de>
+      <es>con ilustraciones</es>
+      <fr>avec des illustrations</fr>
+      <it>con illustrazioni</it>
+      <la>#VALUE!</la>
+      <nl>met illustraties</nl>
+      <pt>com ilustrações</pt>
+      <zh-cn>与插图</zh-cn>
+   </row>
+   <row>
+      <id>ordo-1962-1969</id>
+      <en>Fixed prayers of the Mass for the Roman Catholic liturgy in both forms</en>
+      <de>Feste Gebete der Messe für die katholische Liturgie in beiden Formen</de>
+      <es>Oraciones fijas de la misa de la liturgia católica romana en ambas formas</es>
+      <fr>Prières fixes de la messe pour la liturgie catholique romaine dans les deux formes</fr>
+      <it>Preghiere fisse della Messa per la liturgia cattolica romana in entrambe le forme</it>
+      <la>#VALUE!</la>
+      <nl>Vaste gebeden van de Mis voor de rooms-katholieke liturgie in beide vormen</nl>
+      <pt>Orações fixas da Missa para a liturgia católica romana em ambas as formas</pt>
+      <zh-cn>罗马天主教礼仪中，这两种形式的固定祈祷，弥撒</zh-cn>
+   </row>
+   <row>
+      <id>lectio-1962-1969</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in both forms</en>
+      <de>Lesungen aus der Bibel für die römisch-katholische Liturgie in beiden Formen</de>
+      <es>Las lecturas de la Biblia para la liturgia católica romana en ambas formas</es>
+      <fr>Les lectures de la Bible de la liturgie catholique romaine dans les deux formes</fr>
+      <it>Letture della Bibbia per la liturgia cattolica romana in entrambe le forme</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in beide vormen</nl>
+      <pt>Leituras da Bíblia para a liturgia católica romana em ambas as formas</pt>
+      <zh-cn>读“圣经”的罗马天主教礼仪中，这两种形式</zh-cn>
+   </row>
+   <row>
+      <id>ordo-lectio-1962-1969</id>
+      <en>Fixed prayers and readings from the Bible for the Roman Catholic liturgy in both forms</en>
+      <de>Feste Gebeten und Lesungen aus der Bibel für die römisch-katholische Liturgie in beiden Formen</de>
+      <es>Oraciones fijas y lecturas de la Biblia para la liturgia católica romana en ambas formas</es>
+      <fr>Prières fixes et des lectures de la Bible de la liturgie catholique romaine dans les deux formes</fr>
+      <it>Preghiere fisse e letture della Bibbia per la liturgia cattolica romana in entrambe le forme</it>
+      <la>#VALUE!</la>
+      <nl>Vaste gebeden en lezingen uit de bijbel voor de rooms-katholieke liturgie in beide vormen</nl>
+      <pt>Orações fixas e leituras da Bíblia para a liturgia católica romana em ambas as formas</pt>
+      <zh-cn>罗马天主教礼仪中，这两种形式的固定祈祷和读“圣经”</zh-cn>
+   </row>
+   <row>
+      <id>ordo-1969</id>
+      <en>Fixed prayers of the Mass for the Roman Catholic liturgy in the ordinary form</en>
+      <de>Feste Gebete der Messe für die katholische Liturgie in der gewöhnlichen Form</de>
+      <es>Oraciones fijas de la misa de la liturgia católica romana en la forma ordinaria</es>
+      <fr>Prières fixes de la messe pour la liturgie catholique romaine dans la forme ordinaire</fr>
+      <it>Preghiere fisse della Messa per la liturgia cattolica romana nella forma ordinaria</it>
+      <la>#VALUE!</la>
+      <nl>Vaste gebeden van de Mis voor de rooms-katholieke liturgie in de gewone vorm</nl>
+      <pt>Orações fixas da Missa para a liturgia católica romana na forma ordinária</pt>
+      <zh-cn>固定祈祷的群众，在普通的形式为罗马天主教礼拜仪式</zh-cn>
+   </row>
+   <row>
+      <id>ordo-1962</id>
+      <en>Fixed prayers of the Mass for the Roman Catholic liturgy in the extraordinary form</en>
+      <de>Feste Gebete der Messe für die katholische Liturgie in der außerordentlichen Form</de>
+      <es>Oraciones fijas de la misa de la liturgia católica romana en la forma extraordinaria</es>
+      <fr>Prières fixes de la messe pour la liturgie catholique romaine dans la forme extraordinaire</fr>
+      <it>Preghiere fisse della Messa per la liturgia cattolica romana nella forma straordinaria</it>
+      <la>#VALUE!</la>
+      <nl>Vaste gebeden van de Mis voor de rooms-katholieke liturgie in de buitengewone vorm</nl>
+      <pt>Orações fixas da Missa para a liturgia católica romana na forma extraordinária</pt>
+      <zh-cn>固定祈祷的群众，在平凡的形式为罗马天主教礼拜仪式</zh-cn>
+   </row>
+   <row>
+      <id>lectio-1969</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form</en>
+      <de>Lesungen aus der Bibel für die römisch-katholische Liturgie in der gewöhnlichen Form</de>
+      <es>Las lecturas de la Biblia para la liturgia católica romana en la forma ordinaria</es>
+      <fr>Les lectures de la Bible de la liturgie catholique romaine dans la forme ordinaire</fr>
+      <it>Letture della Bibbia per la liturgia cattolica romana nella forma ordinaria</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm</nl>
+      <pt>Leituras da Bíblia para a liturgia católica romana na forma ordinária</pt>
+      <zh-cn>读“圣经”在普通的形式为罗马天主教礼拜仪式</zh-cn>
+   </row>
+   <row>
+      <id>lectio-1962</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the extraordinary form</en>
+      <de>Lesungen aus der Bibel für die römisch-katholische Liturgie in der außerordentlichen Form</de>
+      <es>Las lecturas de la Biblia para la liturgia católica romana en la forma extraordinaria</es>
+      <fr>Les lectures de la Bible de la liturgie catholique romaine dans la forme extraordinaire</fr>
+      <it>Letture della Bibbia per la liturgia cattolica romana nella forma straordinaria</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de buitengewone vorm</nl>
+      <pt>Leituras da Bíblia para a liturgia católica romana na forma extraordinária</pt>
+      <zh-cn>读“圣经”在平凡的形式为罗马天主教礼拜仪式</zh-cn>
+   </row>
+   <row>
+      <id>ordo-lectio-1969</id>
+      <en>Fixed prayers and readings from the Bible for the Roman Catholic liturgy in the ordinary form</en>
+      <de>Feste Gebeten und Lesungen aus der Bibel für die römisch-katholische Liturgie in der gewöhnlichen Form</de>
+      <es>Oraciones fijas y lecturas de la Biblia para la liturgia católica romana en la forma ordinaria</es>
+      <fr>Prières fixes et des lectures de la Bible de la liturgie catholique romaine dans la forme ordinaire</fr>
+      <it>Preghiere fisse e letture della Bibbia per la liturgia cattolica romana nella forma ordinaria</it>
+      <la>#VALUE!</la>
+      <nl>Vaste gebeden en lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm</nl>
+      <pt>Orações fixas e leituras da Bíblia para a liturgia católica romana na forma ordinária</pt>
+      <zh-cn>普通形式为罗马天主教礼拜仪式中的固定祈祷和读“圣经”</zh-cn>
+   </row>
+   <row>
+      <id>ordo-lectio-1962</id>
+      <en>Fixed prayers and readings from the Bible for the Roman Catholic liturgy in the extraordinary form</en>
+      <de>Feste Gebeten und Lesungen aus der Bibel für die römisch-katholische Liturgie in der außerordentlichen Form</de>
+      <es>Oraciones fijas y lecturas de la Biblia para la liturgia católica romana en la forma extraordinaria</es>
+      <fr>Prières fixes et des lectures de la Bible de la liturgie catholique romaine dans la forme extraordinaire</fr>
+      <it>Preghiere fisse e letture della Bibbia per la liturgia cattolica romana nella forma straordinaria</it>
+      <la>#VALUE!</la>
+      <nl>Vaste gebeden en lezingen uit de bijbel voor de rooms-katholieke liturgie in de buitengewone vorm</nl>
+      <pt>Orações fixas e leituras da Bíblia para a liturgia católica romana na forma extraordinária</pt>
+      <zh-cn>固定的祈祷和读“圣经”，在平凡的形式为罗马天主教礼拜仪式</zh-cn>
+   </row>
+   <row>
+      <id>lectio-1969-a</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year A</en>
+      <de>Lesungen aus der Bibel für die römisch-katholische Liturgie in der gewöhnlichen Form im Jahr A</de>
+      <es>Las lecturas de la Biblia para la liturgia católica romana en la forma ordinaria en el año A</es>
+      <fr>Les lectures de la Bible de la liturgie catholique romaine dans la forme ordinaire de l'année A</fr>
+      <it>Letture dalla Bibbia alla liturgia cattolica romana nella forma ordinaria per l'anno A</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar A</nl>
+      <pt>Leituras da Bíblia para a liturgia católica romana na forma ordinária no ano A</pt>
+      <zh-cn>读“圣经”的罗马天主教礼仪年的普通形式</zh-cn>
+   </row>
+   <row>
+      <id>lectio-1969-b</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year B</en>
+      <de>Lesungen aus der Bibel für die römisch-katholische Liturgie in der gewöhnlichen Form im Jahr B</de>
+      <es>Las lecturas de la Biblia para la liturgia católica romana en la forma ordinaria en el año B</es>
+      <fr>Les lectures de la Bible de la liturgie catholique romaine dans la forme ordinaire dans le année B</fr>
+      <it>Letture della Bibbia per la liturgia cattolica romana nella forma ordinaria nel B l'anno</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar B</nl>
+      <pt>Leituras da Bíblia para a liturgia católica romana na forma ordinária no ano B</pt>
+      <zh-cn>读“圣经”的罗马天主教礼拜仪式中的普通形式在年B</zh-cn>
+   </row>
+   <row>
+      <id>lectio-1969-c</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year C</en>
+      <de>Lesungen aus der Bibel für die römisch-katholische Liturgie in der gewöhnlichen Form im Jahr C</de>
+      <es>Las lecturas de la Biblia para la liturgia católica romana en la forma ordinaria en el año C</es>
+      <fr>Les lectures de la Bible de la liturgie catholique romaine dans la forme ordinaire de l'année C</fr>
+      <it>Letture della Bibbia per la liturgia cattolica romana nella forma ordinaria per l'anno C</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar C</nl>
+      <pt>Leituras da Bíblia para a liturgia católica romana na forma ordinária no ano C</pt>
+      <zh-cn>读“圣经”的罗马天主教礼拜仪式中的普通形式在今年C</zh-cn>
+   </row>
+   <row>
+      <id>lectio-1969-fst</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form for feasts</en>
+      <de>Readings aus der Bibel für die der römisch-katholischen Liturgie in der gewöhnlichen Form für Feste</de>
+      <es>Las lecturas de la Biblia para la liturgia católica romana en la forma ordinaria para las fiestas</es>
+      <fr>Readings tirées de la Bible pour les la liturgie catholique romaine dans la forme ordinaire pour les festins</fr>
+      <it>Letture dalla Bibbia per la liturgia cattolica romana nella forma ordinaria per le feste</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen uit de Bijbel voor de rooms-katholieke liturgie in de gewone vorm voor feesten</nl>
+      <pt>Leituras da Bíblia para a liturgia católica romana na forma ordinária para festas</pt>
+      <zh-cn>读“圣经”的罗马天主教礼拜仪式中的一般形式为节日</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Celebration of the Mass</en>
+      <de>Feier der Messe</de>
+      <es>Celebración de la Misa</es>
+      <fr>Célébration de la messe</fr>
+      <it>Celebrazione della Santa Messa</it>
+      <la>#VALUE!</la>
+      <nl>Viering van de Mis</nl>
+      <pt>Celebração da Missa</pt>
+      <zh-cn>庆祝活动的群众</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Bible references</en>
+      <de>Bible Verweise</de>
+      <es>Referencias bíblicas</es>
+      <fr>Références de la Bible</fr>
+      <it>Della Bibbia riferimenti</it>
+      <la>#VALUE!</la>
+      <nl>Bijbelcitaten</nl>
+      <pt>Referências da Bíblia</pt>
+      <zh-cn>圣经的引用</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Table of contents</en>
+      <de>Table of contents</de>
+      <es>Tabla de contenidos</es>
+      <fr>Table des matières</fr>
+      <it>Table dei contenuti</it>
+      <la>#VALUE!</la>
+      <nl>Inhoudstafel</nl>
+      <pt>Índice analítico</pt>
+      <zh-cn>目录</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Readings for Sundays and feasts</en>
+      <de>Lesungen für Sonntage und Feste</de>
+      <es>Lecturas para los domingos y las fiestas</es>
+      <fr>Lectures pour dimanches et les fêtes</fr>
+      <it>Letture per le domeniche e le feste</it>
+      <la>#VALUE!</la>
+      <nl>Lezingen voor zondagen en feesten</nl>
+      <pt>Leituras para domingos e festas</pt>
+      <zh-cn>星期日和节日的阅读</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Sundays and Feasts</en>
+      <de>Sonn-und Feste</de>
+      <es>Domingos y las Fiestas</es>
+      <fr>Dimanches et fêtes</fr>
+      <it>Domenica e nei giorni Feste</it>
+      <la>#VALUE!</la>
+      <nl>Zondagen en feesten</nl>
+      <pt>Domingos e festas</pt>
+      <zh-cn>星期日和节期</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Ordinary form of the Roman Rite</en>
+      <de>Gewöhnliche Form des römischen Ritus</de>
+      <es>Forma ordinaria del Rito Romano</es>
+      <fr>Formulaire de Ordinaire de la Rite romain</fr>
+      <it>Forma ordinaria del Rito Romano</it>
+      <la>#VALUE!</la>
+      <nl>Gewone vorm van de Romeinse Ritus</nl>
+      <pt>Forma ordinária do Rito Romano</pt>
+      <zh-cn>的罗马成年礼的的之普通形式的</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>ordinary form</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>gewone vorm</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>Extraordinary form of the Roman Rite</en>
+      <de>Extraordinary Form des römischen Rite</de>
+      <es>Forma Extraordinaria del Rito Romano</es>
+      <fr>Forme extraordinaire du rite romain</fr>
+      <it>Forma straordinaria del Rito Romano</it>
+      <la>#VALUE!</la>
+      <nl>Buitengewone vorm van de Romeinse Ritus</nl>
+      <pt>Forma extraordinária do Rito Romano</pt>
+      <zh-cn>的罗马成年礼的的股东特别的的形式的</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>extraordinary form</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>buitengewone vorm</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>Feasts</en>
+      <de>Feste</de>
+      <es>Fiestas</es>
+      <fr>Feasts</fr>
+      <it>Feste</it>
+      <la>#VALUE!</la>
+      <nl>Feesten</nl>
+      <pt>Festas</pt>
+      <zh-cn>欢庆节日</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>Liturgical Calendar for Sundays and feasts</en>
+      <de>Liturgischer Kalender für die Sonntage und Feste</de>
+      <es>Calendario litúrgico para los domingos y las fiestas</es>
+      <fr>Calendrier liturgique des dimanches et des fêtes</fr>
+      <it>Calendario liturgico per la domenica e le feste</it>
+      <la>#VALUE!</la>
+      <nl>Liturgische kalender voor zondagen en feesten</nl>
+      <pt>Calendário litúrgico para os domingos e festas</pt>
+      <zh-cn>星期日和节日礼仪的日历</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>fixed prayers of the mass</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>vaste gebeden van de mis</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>readings from the bible</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>lezingen uit de bijbel</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-participating</id>
+      <en>Attending a roman-catholic mass is easier if you have a missal. It contains the prayers to which the faithful participate and you can find which bible reading is applicable today.</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Deelnemen aan een rooms-katholieke mis is gemakkelijker als je een missaal hebt. Daarin staan de gebeden die de gelovigen tijdens de mis mee bidden, en je kan erin opzoeken welke lezing uit de bijbel die dag gebruikt wordt.</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-order-vs-reading</id>
+      <en>The liturgy of the roman-catholic church contains fixed prayers, which are the same in each mass, and variable parts, like e.g. the readings from the bible.</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>De liturgie van de rooms-katholieke kerk bevat vaste gebeden, die in elke mis hetzelfde zijn, en veranderlijke stukken, zoals bijvoorbeeld de lezingen uit de bijbel. </nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-order</id>
+      <en>contains the fixed prayers to which the faithful participate</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de vaste gebeden die de gelovigen mee bidden</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-reading</id>
+      <en>contains the readings from the gospel</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen uit evangelie </nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-forms</id>
+      <en>There are two forms of the liturgy. The ordinary form the most common. This form was specified in 1969. The extraordinary form is gaining interest, but in fact it is very old. In 1962 the latest change was applied to this form. Both forms contain different fixed prayers and different readings from the bible.</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>De kerk kent twee vormen van de liturgie. De gewone vorm is het ruimst verspreid. Deze vorm van de mis werd in 1969 vastgelegd. De buitengewone vorm wordt stilaan meer bekend, maar is eigenlijk heel oud. In 1962 werd aan deze eeuwenoude ritus de laatste wijziging aangebracht. De twee vormen hebben verschillende vaste gebeden en ook verschillende lezingen uit de bijbel.</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-eo</id>
+      <en>contains the ordinary form</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de buitengewone vorm</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-of</id>
+      <en>contains the extraordinary form</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de gewone vorm</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-calendar</id>
+      <en>The liturgical year is divided in three main seasons. The christmas season is at the beginnin of the liturgical year and starts with advent. The easter season is in the middle of the year. The third season falls inbetween christmas and easter season and continues afterwards until the end of the liturgical year. This calendar defines the topics of the bible readings. On top of that, there's a calendar of feasts for saints or other occasions.</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Het kerkelijk jaar valt uiteen in drie belangrijke periodes. De kersttijd valt aan het begin van het kerkelijk jaar en begint met de advent. De paastijd valt middenin het jaar. De derde periode loopt tussen de kersttijd en de paastijd en dan tot het einde van het kerkelijk jaar. Deze kalender bepaalt het thema van de lezingen uit de bijbel. Daarbovenop komen dan nog de heiligenfeesten.</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cal-christmas</id>
+      <en>contains the readings for christmas season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen voor de kersttijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cal-easter</id>
+      <en>contains the readings for easter season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen voor de paastijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cal-ordinary</id>
+      <en>contains the readings for ordinary time</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen voor de tijd door het jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cal-feasts</id>
+      <en>contains the readings for feasts</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen voor de feesten</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cycles</id>
+      <en>The calendar for the ordinary form has a cycle of three years. Each year has got its own set of readings from the bible. The years are identified as A, B or C and e.g. 2012 is a B-year, 2013 a C-year and 2014 an A-year. The calendar of feasts doesn't have this cycle.</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>De kalender voor de gewone vorm volgt een cyclus van drie jaren. Elk jaar heeft zijn eigen set van lezingen uit de bijbel. Zo is bijvoorbeeld 2012 een B-jaar, 2013 een C-jaar en 2014 een A-jaar. De feesten volgen die cyclus niet.</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cycle-a</id>
+      <en>contains the readings during year A</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen voor een A-jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cycle-b</id>
+      <en>contains the readings during year B</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen voor een B-jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-cycle-c</id>
+      <en>contains the readings during year C</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bevat de lezingen voor een C-jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-choose</id>
+      <en>This way, you can choose or compose the edition(s) of the missal that you need!</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Op deze manier kan je het missaal kiezen of samenstellen dat jij nodig hebt!</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1962-nativ</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the extraordinary form during Christmas season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de buitengewone vorm in de kersttijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1962-pascha</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the extraordinary form during Easter season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de buitengewone vorm in de paastijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1962-annum</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the extraordinary form in ordinary time</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de buitengewone vorm doorheen het jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1962-fst</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the extraordinary form for feasts</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de buitengewone vorm voor feesten</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-a-nativ</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year A during Christmas season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar A in de kersttijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-a-pascha</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year A during Easter season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar A in de paastijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-a-annum</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year A in ordinary time</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar A doorheen het jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-b-nativ</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year B during Christmas season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar B in de kersttijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-b-pascha</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year B during Easter season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar B in de paastijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-b-annum</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year B in ordinary time</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar B doorheen het jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-c-nativ</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year C during Christmas season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar C in de kersttijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-c-pascha</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year C during Easter season</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar C in de paastijd</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>lectio-1969-c-annum</id>
+      <en>Readings from the Bible for the Roman Catholic liturgy in the ordinary form in the year C in ordinary time</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Lezingen uit de bijbel voor de rooms-katholieke liturgie in de gewone vorm in het jaar C doorheen het jaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>pages</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>bladzijden</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>illustrations</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>afbeeldingen</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>This book is not yet available</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Dit boek is nog niet beschikbaar</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>web-man-click</id>
+      <en>Click in the map on a book to select the scope you're interested in.</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Klik in het overzicht op een boek om aan te geven waarin je geïnteresseerd bent.</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>intro-project</id>
+      <en>This site is intended to publish the material that I collected during the last couple of years to teach my children about the bible and about the liturgy of the roman-catholic church. It is a non-profit project and the prices of printed material only cover the costs that the print-on-demand service provider is charging.</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Met deze website wil ik het materiaal publiceren dat ik gedurende de laatste jaren heb verzameld om mijn kinderen te leren over de liturgie van de rooms-katholieke kerk en over de bijbel. Het is een non-profit-project en de prijzen van het afgedrukt materiaal dekken enkel de kostprijs van de print-on-demand-leverancier.</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id>intro-feedback</id>
+      <en>Any feedback or comments to improve the site or the material that it provides are welcome at info@prentenmissaal.com</en>
+      <de/>
+      <es/>
+      <fr/>
+      <it/>
+      <la/>
+      <nl>Alle feedback en opmerkingen om de website of het gepubliceerde materiaal te verbeteren, zijn welkom op info@prentenmissaal.com</nl>
+      <pt/>
+      <zh-cn/>
+   </row>
+   <row>
+      <id/>
+      <en>in dutch</en>
+      <de>in dutch</de>
+      <es>en holandés</es>
+      <fr>en néerlandais</fr>
+      <it>in olandese</it>
+      <la>#VALUE!</la>
+      <nl>uit het nederlands</nl>
+      <pt>em holandês</pt>
+      <zh-cn>在荷兰</zh-cn>
+   </row>
+   <row>
+      <id/>
+      <en>from english</en>
+      <de>von Englisch</de>
+      <es>de Inglés</es>
+      <fr>de l'anglais</fr>
+      <it>da inglese</it>
+      <la>#VALUE!</la>
+      <nl>van engels</nl>
+      <pt>do Inglês</pt>
+      <zh-cn>从英语</zh-cn>
+   </row>
+</rows>
